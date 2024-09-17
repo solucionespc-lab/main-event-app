@@ -1,0 +1,7 @@
+.contenedor_main {
+  grid-column: 2/13;
+  grid-row: 2/11;
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+  background-color: azure;
+}
