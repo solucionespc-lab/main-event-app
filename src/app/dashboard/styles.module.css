@@ -1,0 +1,7 @@
+.color {
+  background-color: brown;
+
+  &:hover {
+    background-color: aqua;
+  }
+}
