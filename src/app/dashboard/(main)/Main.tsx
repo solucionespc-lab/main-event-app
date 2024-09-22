@@ -26,6 +26,7 @@ import {
   TableHeader,
   TableRow,
 } from "@/components/ui/table"
+import { UserButton } from "@clerk/nextjs"
 
 const sidebarItems = [
   { name: "Inicio", icon: Home, href: "/" },
@@ -54,7 +55,6 @@ const ticketData = [
 
 export default function DashboardPage() {
   const [selectedEvent, setSelectedEvent] = useState("all")
-
   const filteredTickets = selectedEvent === "all"
     ? ticketData
     : ticketData.filter(ticket => ticket.event === selectedEvent)
@@ -112,6 +112,7 @@ export default function DashboardPage() {
                   </div>
                 </li>
               </ol>
+              <UserButton />
             </nav>
           </div>
         </header>
