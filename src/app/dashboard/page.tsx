@@ -20,6 +20,7 @@ import {
   DialogTitle,
   DialogTrigger,
 } from "@/components/ui/dialog"
+import { UserButton } from '@clerk/nextjs'
 
 const sidebarItems = [
   { icon: Home, label: 'Administrar eventos', href: '/dashboard/eventos' },
@@ -88,23 +89,7 @@ export default function Dashboard() {
             </Sheet>
             <h1 className="ml-4 text-2xl font-semibold text-gray-800">Dashboard</h1>
           </div>
-          <Dialog>
-            <DialogTrigger asChild>
-              <Button variant="ghost" size="icon" className="rounded-full">
-                <User className="h-6 w-6" />
-                <span className="sr-only">User menu</span>
-              </Button>
-            </DialogTrigger>
-            <DialogContent>
-              <DialogHeader>
-                <DialogTitle>User Profile</DialogTitle>
-                <DialogDescription>
-                  Manage your account settings and preferences here.
-                </DialogDescription>
-              </DialogHeader>
-              {/* Add user profile content here */}
-            </DialogContent>
-          </Dialog>
+         <UserButton />
         </header>
 
         <main className="flex-1 overflow-x-hidden overflow-y-auto bg-gray-100">
