@@ -1,0 +1,1507 @@
+{
+  "empresa": {
+    "color": "#80a900",
+    "logo": "https://www.biod.com.co/wp-content/uploads/2023/11/logoBioD.svg",
+    "nombreCompleto": "BIO D S.A.",
+    "nombreCorto": "BIOD",
+    "urlEmpresa": "https://www.biod.com.co/"
+  },
+  "listas": {
+    "EVA1": [
+      {
+        "codigoPregunta": "PA001",
+        "descripcion": "El documento se encuentra vigente según los criterios de actualización de documentos descritos en HSEQ-PRO-003, numeral 5.1: \n\n1. El numeral desarrollo actualizado con las practicas actuales\n\n2. Los cargos establecidos en la responsabilidad y autoridad coinciden con lo estipulado en el organigrama de Bio D S.A.\n\n3. Los documentos relacionados pertenecen al SIG de la organización.\n\n4. Las referencias normativas coinciden con las existentes en el listado maestro de documentos externos.\n\n5. Para inspección y ensayo, las ref. normativas citadas en los procedimientos de ensayo corresponden  a la versión del certificado de acreditación o cuando aplique alguna actualización mientras se desarrolla algún proceso de auditoría.",
+        "puntaje": 1
+      },
+      {
+        "codigoPregunta": "PA002",
+        "descripcion": "El perfil del responsable del SG SST, cumple con  según lo establecido en la resolución 0312 en su articulo 16",
+        "puntaje": 1
+      },
+      {
+        "codigoPregunta": "PA003",
+        "descripcion": "La autoevaluación presentada por el contratista tiene los criterios establecidos en la resolución 0312, con puntaje mayor o igual al 85%",
+        "puntaje": 1
+      },
+      {
+        "codigoPregunta": "PA004",
+        "descripcion": "Radicado de la autoevaluación de estándares mínimos Circular 082",
+        "puntaje": 1
+      },
+      {
+        "codigoPregunta": "PA005",
+        "descripcion": "Se evidencia un SG SST, con documentos firmados por el encargado del sistema",
+        "puntaje": 1
+      },
+      {
+        "codigoPregunta": "PA006",
+        "descripcion": "Están establecidas las Responsabilidades en el Sistema de Gestión de Seguridad y Salud en el Trabajo – SG-SST ",
+        "puntaje": 1
+      },
+      {
+        "codigoPregunta": "PA007",
+        "descripcion": "Lista de documental del Sistema de Gestión en Seguridad y Salud en el Trabajo SG-SST",
+        "puntaje": 1
+      },
+      {
+        "codigoPregunta": "PA008",
+        "descripcion": "Presentan  una Política del Sistema de Gestión de Seguridad y Salud en el Trabajo SG-SST firmada, fechada y comunicada ",
+        "puntaje": 1
+      },
+      {
+        "codigoPregunta": "PA009",
+        "descripcion": "Rendición y/o evaluación desempeño de los colaboradores frente al SG SST",
+        "puntaje": 1
+      },
+      {
+        "codigoPregunta": "PA010",
+        "descripcion": "Se tiene identificados evaluados y valorados los riesgos con participación de todos los niveles de la empresa",
+        "puntaje": 1
+      },
+      {
+        "codigoPregunta": "PA011",
+        "descripcion": "Se implementan las medidas de prevención y control de peligros, como inspecciones de equipo, mantenimientos y certificados si aplica ",
+        "puntaje": 1
+      },
+      {
+        "codigoPregunta": "PA012",
+        "descripcion": "Cuenta con un plan de emergencias y medidas de evacuación y esta de acuerdo a la ubicación de Bio D.",
+        "puntaje": 1
+      },
+      {
+        "codigoPregunta": "PA013",
+        "descripcion": "Se cuenta con procedimientos, instructivos, fichas, protocolos",
+        "puntaje": 1
+      },
+      {
+        "codigoPregunta": "PA014",
+        "descripcion": "S e cuenta con matriz legal actualizada",
+        "puntaje": 1
+      },
+      {
+        "codigoPregunta": "PA015",
+        "descripcion": "Se evidencia un informe medico de la IPS de los exámenes médicos .",
+        "puntaje": 1
+      },
+      {
+        "codigoPregunta": "PA016",
+        "descripcion": " Actividades de Promoción y Prevención según recomendaciones del informe. ",
+        "puntaje": 1
+      },
+      {
+        "codigoPregunta": "PA017",
+        "descripcion": "Existe en el ultimo año una revisión de la alta dirección",
+        "puntaje": 1
+      },
+      {
+        "codigoPregunta": "PA018",
+        "descripcion": "Ultima planilla vigente de pago a ARL, AFP y EPS",
+        "puntaje": 1
+      },
+      {
+        "codigoPregunta": "PA019",
+        "descripcion": "Capacitan al personal para labores de alto riesgo (cursos vigentes)",
+        "puntaje": 1
+      },
+      {
+        "codigoPregunta": "PA020",
+        "descripcion": "Tiene procedimientos para las actividades de alto riesgo",
+        "puntaje": 1
+      },
+      {
+        "codigoPregunta": "PA021",
+        "descripcion": "Política de tabaco alcohol y drogas y socialización al personal",
+        "puntaje": 1
+      },
+      {
+        "codigoPregunta": "PA022",
+        "descripcion": "Cuenta con programa de higiene y/o seguridad se establecen mediciones ambientales",
+        "puntaje": 1
+      },
+      {
+        "codigoPregunta": "PA023",
+        "descripcion": "Cuentan con un MEDEVAC (con esquema de evacuación y datos del personal)",
+        "puntaje": 1
+      },
+      {
+        "codigoPregunta": "PA024",
+        "descripcion": "Realizan capacitaciones, charlas de seguridad a todos sus colaboradores (ordenarlas mes a mes)",
+        "puntaje": 1
+      },
+      {
+        "codigoPregunta": "PA025",
+        "descripcion": "Presenta una autoevaluación del PESV, realizada con una persona con licencia en salud ocupacional.",
+        "puntaje": 1
+      },
+      {
+        "codigoPregunta": "PA026",
+        "descripcion": "Certificado de trabajadores autorizados para trabajos en alturas.",
+        "puntaje": 1
+      },
+      {
+        "codigoPregunta": "PA027",
+        "descripcion": "Conceptos de aptitud medica de los trabajadores",
+        "puntaje": 1
+      },
+      {
+        "codigoPregunta": "PA028",
+        "descripcion": "Certificados de trabajadores para manipulación de instalaciones eléctricas energizadas. Matricula según Conte, Conaltel, etc.",
+        "puntaje": 1
+      },
+      {
+        "codigoPregunta": "PA029",
+        "descripcion": "Certificado para trabajos en espacios confinados.",
+        "puntaje": 1
+      },
+      {
+        "codigoPregunta": "PA030",
+        "descripcion": "Procedimientos seguros de trabajos en espacios confinados.",
+        "puntaje": 1
+      },
+      {
+        "codigoPregunta": "PA031",
+        "descripcion": "Certificado para trabajos de manipulación de cargas e izaje de cargas.",
+        "puntaje": 1
+      },
+      {
+        "codigoPregunta": "PA032",
+        "descripcion": "Cuenta con un plan de rescate en trabajos en alturas",
+        "puntaje": 1
+      },
+      {
+        "codigoPregunta": "PA033",
+        "descripcion": "Cuenta con elementos de rescate",
+        "puntaje": 1
+      },
+      {
+        "codigoPregunta": "PA034",
+        "descripcion": "Cuenta con las Hojas de vida de EPCC",
+        "puntaje": 1
+      },
+      {
+        "codigoPregunta": "PA035",
+        "descripcion": "Cuenta con los certificados de los EPCC",
+        "puntaje": 1
+      },
+      {
+        "codigoPregunta": "PA036",
+        "descripcion": "Cuenta con pre operacionales de los EPCC",
+        "puntaje": 1
+      },
+      {
+        "codigoPregunta": "PA037",
+        "descripcion": "Programa y/o procedimientos de protección contra caídas.",
+        "puntaje": 1
+      },
+      {
+        "codigoPregunta": "PA038",
+        "descripcion": "Se evidencia una entrega Dotación ",
+        "puntaje": 1
+      },
+      {
+        "codigoPregunta": "PA039",
+        "descripcion": "Se evidencia entrega y reposición de EPP a los colaboradores.",
+        "puntaje": 1
+      },
+      {
+        "codigoPregunta": "PA040",
+        "descripcion": "Programa de capacitación al personal para el uso adecuado de EPP",
+        "puntaje": 1
+      },
+      {
+        "codigoPregunta": "PA041",
+        "descripcion": "Cuenta con un plan de Inducciones y reinducciones ",
+        "puntaje": 1
+      },
+      {
+        "codigoPregunta": "PA042",
+        "descripcion": "Realiza inducción de Bio D con menos de un año",
+        "puntaje": 1
+      },
+      {
+        "codigoPregunta": "PA043",
+        "descripcion": "Entregan Informes semanales en el formato de Bio D",
+        "puntaje": 1
+      },
+      {
+        "codigoPregunta": "PA044",
+        "descripcion": "Realizan las inspecciones mensuales al SGSST",
+        "puntaje": 1
+      },
+      {
+        "codigoPregunta": "PA045",
+        "descripcion": "Tienen equipos con certificados.",
+        "puntaje": 1
+      },
+      {
+        "codigoPregunta": "PA046",
+        "descripcion": "Presentan ficha de datos de seguridad FDS de las sustancias químicas que utilizan",
+        "puntaje": 1
+      },
+      {
+        "codigoPregunta": "PA047",
+        "descripcion": "Cuentan con una matriz de compatibilidad y esta en área de almacenamiento de sustancias químicas",
+        "puntaje": 1
+      },
+      {
+        "codigoPregunta": "PA048",
+        "descripcion": "Presenta etiqueta de las sustancias químicas que utilizan",
+        "puntaje": 1
+      },
+      {
+        "codigoPregunta": "PA049",
+        "descripcion": "Tiene conformada una brigada de emergencia esta dotada y esta capacitada",
+        "puntaje": 1
+      },
+      {
+        "codigoPregunta": "PA050",
+        "descripcion": "Se evidencia indicadores de Gestión",
+        "puntaje": 1
+      },
+      {
+        "codigoPregunta": "PA051",
+        "descripcion": "Cuenta con procedimiento para el reporte de incidentes estadísticas",
+        "puntaje": 1
+      }
+    ],
+    "EVA2": [
+      {
+        "codigoPregunta": "PAC001",
+        "descripcion": "El documento se encuentra vigente según los criterios de actualización de documentos descritos en HSEQ-PRO-003, numeral 5.1:\n1. El numeral desarrollo actualizado con las practicas actuales\n2. Los cargos establecidos en la responsabilidad y autoridad coinciden con lo estipulado en el organigrama de Bio D S.A.\n3. Los documentos relacionados pertenecen al SIG de la organización.\n4. Las referencias normativas coinciden con las existentes en el listado maestro de documentos externos.\n5. Para inspección y ensayo, las ref. normativas citadas en los procedimientos de ensayo corresponden  a la versión del certificado de acreditación o cuando aplique alguna actualización mientras se desarrolla algún proceso de auditoría.",
+        "puntaje": 1,
+        "tema": "Tem001"
+      },
+      {
+        "codigoPregunta": "PAC002",
+        "descripcion": "El perfil del responsable del SG SST, cumple con  según lo establecido en la resolución 0312 en su articulo 16 Lic.",
+        "puntaje": 1,
+        "tema": "Tem001"
+      },
+      {
+        "codigoPregunta": "PAC003",
+        "descripcion": "El perfil del responsable del SG SST, cumple con  según lo establecido en la resolución 0312 en su articulo curso de 50 SG SST del responsable SG",
+        "puntaje": 1,
+        "tema": "Tem001"
+      },
+      {
+        "codigoPregunta": "PAC004",
+        "descripcion": "La autoevaluación presentada por el contratista tiene los criterios establecidos en la resolución 0312, con puntaje mayor o igual al 85%",
+        "puntaje": 1,
+        "tema": "Tem001"
+      },
+      {
+        "codigoPregunta": "PAC005",
+        "descripcion": "El perfil del responsable del SG SST, cumple con  según lo establecido en la resolución 0312 en su articulo 16 Lic.",
+        "puntaje": 1,
+        "tema": "Tem001"
+      },
+      {
+        "codigoPregunta": "PAC006",
+        "descripcion": "Radicado de la autoevaluación de estándares mínimos",
+        "puntaje": 1,
+        "tema": "Tem001"
+      }
+    ],
+    "EVA3": [
+      {
+        "Programa": "prog1",
+        "codigoPregunta": "AMT001",
+        "descripcion": "¿Cuenta con las licencias ambientales, permisos y autorizaciones de exige la ley",
+        "puntaje": 1
+      },
+      {
+        "Programa": "prog2",
+        "codigoPregunta": "AMT002",
+        "descripcion": "PMA (Plan de Manejo Ambiental)",
+        "puntaje": 1
+      },
+      {
+        "Programa": "prog2",
+        "codigoPregunta": "AMT003",
+        "descripcion": "Matriz de aspectos e impactos ambientales",
+        "puntaje": 1
+      },
+      {
+        "Programa": "prog2",
+        "codigoPregunta": "AMT004",
+        "descripcion": "Programas ambientales alineados al control de los impactos significativos",
+        "puntaje": 1
+      },
+      {
+        "Programa": "prog2",
+        "codigoPregunta": "AMT005",
+        "descripcion": "Inventario de residuos generados en la actividades desarrolladas o Actas de disposición y/o aprovechamiento",
+        "puntaje": 1
+      }
+    ],
+    "EVA4": [
+      {
+        "codigoPregunta": "PRE001",
+        "descripcion": "Plan de contingencias para el manejo de derrames  de hidrocarburos o sustancias nocivas (en caso de emergencia, incidente o accidente con mercancías peligrosas en carretera), con su respectivo radicado ante la autoridad ambiental.",
+        "programa": "prog1",
+        "puntaje": 1
+      },
+      {
+        "codigoPregunta": "PRE002",
+        "descripcion": "Fichas de datos de seguridad para transporte de mercancías peligrosas.",
+        "programa": "prog1",
+        "puntaje": 1
+      },
+      {
+        "codigoPregunta": "PRE003",
+        "descripcion": "Tarjetas de emergencia para transporte de mercancías peligrosas.",
+        "programa": "prog1",
+        "puntaje": 1
+      },
+      {
+        "codigoPregunta": "PRE004",
+        "descripcion": "Certificado de curso básico obligatorio de capacitación para conductores de vehículos que transporten mercancías peligrosas.",
+        "programa": "prog1",
+        "puntaje": 1
+      },
+      {
+        "codigoPregunta": "PRE005",
+        "descripcion": "Póliza de responsabilidad civil extracontractual O HIDROCARBUROS.",
+        "programa": "prog1",
+        "puntaje": 1
+      },
+      {
+        "codigoPregunta": "PRE006",
+        "descripcion": "Registro de capacitación al personal que manipula mercancías peligrosas en la atención de emergencias, incidentes o accidentes causados por mercancías peligrosas.",
+        "programa": "prog1",
+        "puntaje": 1
+      },
+      {
+        "codigoPregunta": "PRE007",
+        "descripcion": "Registro de inspección de botiquín y kit de derrames del vehículo que transporta mercancías peligrosas.",
+        "programa": "prog1",
+        "puntaje": 1
+      },
+      {
+        "codigoPregunta": "PRE008",
+        "descripcion": "Lista de chequeo preoperacional del vehículo que transporta mercancías peligrosas.",
+        "programa": "prog1",
+        "puntaje": 1
+      },
+      {
+        "codigoPregunta": "PRE009",
+        "descripcion": "Registro fotográfico del etiquetado del vehículo según lo estipulado en la Norma Técnica Colombiana NTC 1692 y las NTC 47022-23-24-25-26-27-28-29 en sus respectivos anexos y el Sistema Globalmente Armonizado de clasificación y etiquetado de productos químicos.",
+        "programa": "prog1",
+        "puntaje": 1
+      },
+      {
+        "codigoPregunta": "PRE010",
+        "descripcion": "Revisión tecno mecánica con el respectivo informe de resultados de opacidad.",
+        "programa": "prog1",
+        "puntaje": 1
+      },
+      {
+        "codigoPregunta": "PRE011",
+        "descripcion": "Estadistica baja de derrames y gestion de todas las actividades de la fase de corrección",
+        "programa": "prog1",
+        "puntaje": 1
+      }
+    ],
+    "RH": ["+", "-"],
+    "cantidadTrabajadores": [
+      { "code": "menor50", "value": "Menor que 50" },
+      { "code": "50a99", "value": "50 a 99" },
+      { "code": "100a499", "value": "100 a 499" },
+      { "code": "mayor500", "value": "500 en adelante" }
+    ],
+    "cargos": [
+      { "id": "car00", "value": "ALMACENISTA" },
+      { "id": "car01", "value": "ANALISTA AMBIENTAL" },
+      { "id": "car02", "value": "ANALISTA COMPRAS" },
+      { "id": "car03", "value": "ANALISTA CONTABILIDAD" },
+      { "id": "car04", "value": "ANALISTA CONTABLE" },
+      { "id": "car05", "value": "ANALISTA DE  TECNOLOGIAS DE LA INFORMACION" },
+      { "id": "car06", "value": "ANALISTA DE BASCULA" },
+      { "id": "car07", "value": "ANALISTA DE BOTTON UP" },
+      { "id": "car08", "value": "ANALISTA DE COMPRAS" },
+      { "id": "car09", "value": "ANALISTA DE COMUNICACIÓN INTERNA " },
+      { "id": "car010", "value": "ANALISTA DE CONTABILIDAD" },
+      { "id": "car011", "value": "ANALISTA DE CULTURA ORGANIZACIONAL" },
+      { "id": "car012", "value": "ANALISTA DE DESARROLLO INTEGRAL" },
+      {
+        "id": "car013",
+        "value": "ANALISTA DE DESARROLLO INTEGRAL Y COMUNICACIÓN"
+      },
+      { "id": "car014", "value": "ANALISTA DE GESTION HUMANA" },
+      { "id": "car015", "value": "ANALISTA DE INMERSIÓN" },
+      { "id": "car016", "value": "ANALISTA DE INVESTIGACIÓN DE MERCADOS" },
+      { "id": "car017", "value": "ANALISTA DE LABORATORIO" },
+      { "id": "car018", "value": "ANALISTA DE MANTENIMIENTO PREDICTIVO" },
+      { "id": "car019", "value": "ANALISTA DE PLANEACIÓN FINANCIERA" },
+      { "id": "car020", "value": "ANALISTA DE RELACIONES LABORALES" },
+      { "id": "car021", "value": "ANALISTA DE TESORERIA" },
+      {
+        "id": "car022",
+        "value": "ANALISTA DE VIGILANCIA E INTELIGENCIA DE NEGOCIOS"
+      },
+      { "id": "car023", "value": "ANALISTA HS" },
+      { "id": "car024", "value": "ANALISTA HSE" },
+      { "id": "car025", "value": "ANALISTA JUNIOR DE LABORATORIO" },
+      { "id": "car026", "value": "ANALISTA JUNIOR LABORATORIO" },
+      {
+        "id": "car027",
+        "value": "ANALISTA LOGISTICO DE ABASTECIMIENTO DE ACEITES"
+      },
+      { "id": "car028", "value": "ANALISTA LOGISTICO DE DESPACHOS" },
+      { "id": "car029", "value": "ANALISTA MODULO MANUFACTURA " },
+      { "id": "car030", "value": "ANALISTA RELACIONES LABORALES" },
+      { "id": "car031", "value": "ANALISTA SISTEMA INTEGRADO DE GESTION" },
+      { "id": "car032", "value": "ANALISTA SISTEMA INTEGRADO DE GESTIÓN" },
+      { "id": "car033", "value": "ANALISTA SOPORTE DE OPERACIÓN ACTUAL" },
+      { "id": "car034", "value": "ANALISTA TECNOLOGIA DE LA INFORMACION" },
+      { "id": "car035", "value": "ANALISTA ZONA FRANCA" },
+      { "id": "car036", "value": "ASISTENTE DE DESARROLLO INTEGRAL" },
+      {
+        "id": "car037",
+        "value": "ASISTENTE DE DESARROLLO INTEGRAL Y COMUNICACIÓN"
+      },
+      { "id": "car038", "value": "ASISTENTE DE INVESTIGACIÓN Y DESARROLLO" },
+      { "id": "car039", "value": "ASISTENTE DE LOGISTICA " },
+      { "id": "car040", "value": "ASISTENTE DE MERCADEO" },
+      { "id": "car041", "value": "ASISTENTE HS" },
+      { "id": "car042", "value": "ASISTENTE LOGISTICA  2" },
+      { "id": "car043", "value": "ASISTENTE VENTAS DE GLICERINA" },
+      { "id": "car044", "value": "AUXILIAR ADMINISTRATIVA" },
+      { "id": "car045", "value": "AUXILIAR ALMACEN" },
+      { "id": "car046", "value": "AUXILIAR AMBIENTAL" },
+      { "id": "car047", "value": "AUXILIAR COMPRAS" },
+      { "id": "car048", "value": "AUXILIAR CONTABLE " },
+      { "id": "car049", "value": "AUXILIAR DE COMPRAS" },
+      { "id": "car050", "value": "AUXILIAR DE CONTABILIDAD" },
+      {
+        "id": "car051",
+        "value": "AUXILIAR DE DESARROLLO INTEGRAL Y COMUNICACIÓN"
+      },
+      { "id": "car052", "value": "AUXILIAR DE GESTION DOCUMENTAL" },
+      {
+        "id": "car053",
+        "value": "AUXILIAR DE INSPECCION DE MUESTREO Y TANQUES"
+      },
+      { "id": "car054", "value": "AUXILIAR DE INSPECTOR" },
+      { "id": "car055", "value": "AUXILIAR DE INSTRUMENTACION " },
+      { "id": "car056", "value": "AUXILIAR DE INVESTIGACION Y DESARROLLO" },
+      { "id": "car057", "value": "AUXILIAR DE LABORATORIO" },
+      { "id": "car058", "value": "AUXILIAR DE LOGISTICA" },
+      { "id": "car059", "value": "AUXILIAR DE MANTENIMIENTO" },
+      { "id": "car060", "value": "AUXILIAR DE MENSAJERIA" },
+      { "id": "car061", "value": "AUXILIAR DE MUESTREO" },
+      { "id": "car062", "value": "AUXILIAR DE OPERACIONES LOGISTICAS" },
+      { "id": "car063", "value": "AUXILIAR DE PRODUCCIÓN" },
+      { "id": "car064", "value": "AUXILIAR DE SERVICIOS GENERALES" },
+      { "id": "car065", "value": "AUXILIAR DE SERVICIOS INDUSTRIALES" },
+      { "id": "car066", "value": "AUXILIAR DE SOLDADURA" },
+      { "id": "car067", "value": "AUXILIAR MONTAJE" },
+      { "id": "car068", "value": "AUXILIAR SISTEMA INTEGRADO DE GESTIÓN" },
+      { "id": "car069", "value": "AYUDANTE CALDERA" },
+      { "id": "car070", "value": "AYUDANTE DE CALDERA" },
+      { "id": "car071", "value": "AYUDANTE DE MANTENIMIENTO" },
+      { "id": "car072", "value": "AYUDANTE PLANTA REFINERIA" },
+      { "id": "car073", "value": "AYUDANTE PLANTA TRATAMIENTO DE AGUAS " },
+      { "id": "car074", "value": "BYM" },
+      { "id": "car075", "value": "COORDINADOR BOTTOM UP" },
+      { "id": "car076", "value": "COORDINADOR DE CAMBIO CLIMATICO" },
+      { "id": "car077", "value": "COORDINADOR DE COMPRAS" },
+      { "id": "car078", "value": "COORDINADOR DE COMPRAS Y ALMACEN" },
+      { "id": "car079", "value": "COORDINADOR DE COMUNICACIÓN INTERNA " },
+      { "id": "car080", "value": "COORDINADOR DE CONTABILIDAD Y COSTOS " },
+      { "id": "car081", "value": "COORDINADOR DE GESTION DE APLICACIONES" },
+      {
+        "id": "car082",
+        "value": "COORDINADOR DE GESTION DE APLICACIONES Y DATOS"
+      },
+      { "id": "car083", "value": "COORDINADOR DE INGENIERIA" },
+      { "id": "car084", "value": "COORDINADOR DE MANTENIMIENTO" },
+      { "id": "car085", "value": "COORDINADOR DE MEJORA" },
+      { "id": "car086", "value": "COORDINADOR DE NUEVOS NEGOCIOS " },
+      {
+        "id": "car087",
+        "value": "COORDINADOR DE PLANEACION Y CONTROL DE LA PRODUCCION"
+      },
+      {
+        "id": "car088",
+        "value": "COORDINADOR DE PROVEEDURIA Y LOGISTICA EN COMERCIO EXTERIOR"
+      },
+      { "id": "car089", "value": "COORDINADOR DE SERVICIO DE PATIOS" },
+      { "id": "car090", "value": "COORDINADOR DE SERVICIO DE PATIOS " },
+      { "id": "car091", "value": "COORDINADOR DE VENTAS" },
+      {
+        "id": "car092",
+        "value": "COORDINADOR DEL SISTEMA INTEGRADO DE GESTION"
+      },
+      { "id": "car093", "value": "COORDINADOR ELECTRICO DE INGENIERIA" },
+      { "id": "car094", "value": "COORDINADOR MECANICO DE INGENIERIA" },
+      { "id": "car095", "value": "COORDINADOR VENTAS" },
+      { "id": "car096", "value": "DIBUJANTE PROYECTISTA" },
+      { "id": "car097", "value": "DIRECCIÓN BOTTON UP" },
+      {
+        "id": "car098",
+        "value": "DIRECCION DE DESARROLLO INTEGRAL Y COMUNICACIÓN"
+      },
+      {
+        "id": "car099",
+        "value": "DIRECCIÓN DE GESTION Y DESARROLLO DE PROVEEDORES"
+      },
+      { "id": "car0100", "value": "DIRECCIÓN DE NUEVOS NEGOCIOS" },
+      { "id": "car0101", "value": "DIRECCION DE PLANEACION FINANCIERA" },
+      { "id": "car0102", "value": "DIRECCIÓN DE PROYECTOS E INGENIERIA " },
+      { "id": "car0103", "value": "DIRECCION LOGISTICA" },
+      { "id": "car0104", "value": "DIRECCION SISTEMA INTEGRAL DE GESTION" },
+      { "id": "car0105", "value": "DIRECTOR BOTTOM UP" },
+      { "id": "car0106", "value": "DIRECTOR CONTABLE " },
+      { "id": "car0107", "value": "DIRECTOR DE AGUAS Y GESTION AMBIENTAL " },
+      { "id": "car0108", "value": "DIRECTOR DE COMPRAS Y ALMACEN" },
+      { "id": "car0109", "value": "DIRECTOR DE CONFIABILIDAD" },
+      { "id": "car0110", "value": "DIRECTOR DE CONTABILIDAD" },
+      { "id": "car0111", "value": "DIRECTOR DE CULTURA ORGANIZACIONAL" },
+      { "id": "car0112", "value": "DIRECTOR DE GESTION T.I" },
+      {
+        "id": "car0113",
+        "value": "DIRECTOR DE GESTION Y DESARROLLO DE PROVEEDORES"
+      },
+      { "id": "car0114", "value": "DIRECTOR DE INSPECCION Y ENSAYO " },
+      { "id": "car0115", "value": "DIRECTOR DE INVESTIGACIÓN Y DESARROLLO" },
+      { "id": "car0116", "value": "DIRECTOR DE LOGISTICA" },
+      { "id": "car0117", "value": "DIRECTOR DE MANTENIMIENTO" },
+      { "id": "car0118", "value": "DIRECTOR DE MERCADEO" },
+      { "id": "car0119", "value": "DIRECTOR DE NUEVOS NEGOCIOS" },
+      { "id": "car0120", "value": "DIRECTOR DE PLANEACION FINANCIERA" },
+      { "id": "car0121", "value": "DIRECTOR DE PRODUCCIÓN" },
+      { "id": "car0122", "value": "DIRECTOR DE SEGURIDAD INDUSTRIAL" },
+      { "id": "car0123", "value": "DIRECTOR DE SERVICIO TECNICO  " },
+      { "id": "car0124", "value": "DIRECTOR DE TESORERIA " },
+      { "id": "car0125", "value": "DIRECTOR DE VENTAS" },
+      { "id": "car0126", "value": "DIRECTOR DEL SISTEMA DE INNOVACIÓN" },
+      { "id": "car0127", "value": "DIRECTOR GESTION T.I" },
+      { "id": "car0128", "value": "DIRECTOR HS" },
+      { "id": "car0129", "value": "DIRECTOR NUEVOS NEGOCIOS" },
+      { "id": "car0130", "value": "DIRECTOR SISTEMA INTEGRAL DE GESTION" },
+      { "id": "car0131", "value": "EJECUTIVO DE VENTAS" },
+      { "id": "car0132", "value": "FERREINGENIERIA" },
+      { "id": "car0133", "value": "FJ BECERRA" },
+      { "id": "car0134", "value": "GERENTE CADENA DE ABASTECIMIENTO" },
+      { "id": "car0135", "value": "GERENTE DE CULTURA ORGANIZACIONAL" },
+      { "id": "car0136", "value": "GERENTE DE IMPLEMENTACION " },
+      { "id": "car0137", "value": "GERENTE DE MANTENIMIENTO" },
+      { "id": "car0138", "value": "GERENTE DE PRODUCCION SOSTENIBLE" },
+      { "id": "car0139", "value": "GERENTE DE PRODUCCIÓN SOSTENIBLE" },
+      { "id": "car0140", "value": "GERENTE FINANCIERO" },
+      { "id": "car0141", "value": "GERENTE GENERAL" },
+      { "id": "car0142", "value": "GERENTE GESTION DE NUEVOS NEGOCIOS " },
+      { "id": "car0143", "value": "GERENTE IMPLEMENTACIÓN NUEVOS NEGOCIOS " },
+      { "id": "car0144", "value": "GERENTE MERCADEO" },
+      { "id": "car0145", "value": "GERENTE MERCADEO Y VENTAS " },
+      { "id": "car0146", "value": "GERENTE NUEVOS NEGOCIOS" },
+      {
+        "id": "car0147",
+        "value": "GERENTE PARA LA EVALUACION DEL ESCALAMIENTO DEL PROYECTO DE BIOJET"
+      },
+      { "id": "car0148", "value": "GESTOR AMBIENTAL" },
+      { "id": "car0149", "value": "GESTOR DE ACTIVOS" },
+      { "id": "car0150", "value": "GESTOR DOCUMENTAL " },
+      { "id": "car0151", "value": "ICM" },
+      { "id": "car0152", "value": "INGENIERO AMBIENTAL" },
+      { "id": "car0153", "value": "INGENIERO DE DESARROLLO " },
+      { "id": "car0154", "value": "INGENIERO DE DISEÑO" },
+      { "id": "car0155", "value": "INGENIERO DE GESTION DE ACTIVOS" },
+      { "id": "car0156", "value": "INGENIERO DE INNOVACION" },
+      { "id": "car0157", "value": "INGENIERO DE INVESTIGACIÓN Y DESARROLLO" },
+      { "id": "car0158", "value": "INGENIERO DE PROCESO" },
+      { "id": "car0159", "value": "INGENIERO DE PROCESOS" },
+      { "id": "car0160", "value": "INGENIERO DE PRODUCCION" },
+      { "id": "car0161", "value": "INGENIERO DE PROYECTOS" },
+      { "id": "car0162", "value": "INGENIERO SOPORTE  POSTVENTA  NACIONAL" },
+      { "id": "car0163", "value": "INSPECTOR DE  TANQUES Y MUESTREO " },
+      { "id": "car0164", "value": "INSPECTOR DE MUESTREO Y TANQUES" },
+      { "id": "car0165", "value": "INSPECTOR DE SERVICIO TECNICO" },
+      { "id": "car0166", "value": "INSPECTOR DE SOPORTE TECNICO" },
+      { "id": "car0167", "value": "INSTRUMENTISTA" },
+      { "id": "car0168", "value": "INTERVENTOR" },
+      { "id": "car0169", "value": "INVESTIGADOR" },
+      { "id": "car0170", "value": "INVESTIGADOR " },
+      { "id": "car0171", "value": "INVESTIGADOR ALIADOS ESTRATEGICOS" },
+      { "id": "car0172", "value": "INVESTIGADOR JUNIOR" },
+      { "id": "car0173", "value": "INVESTIGADOR QUIMICO" },
+      { "id": "car0174", "value": "JMS INGENIERIA S.A.S" },
+      { "id": "car0175", "value": "MECANICO JUNIOR" },
+      { "id": "car0176", "value": "MECANICO PREDICTIVO" },
+      { "id": "car0177", "value": "METROLOGO" },
+      { "id": "car0178", "value": "OPERARIO BASCULA" },
+      { "id": "car0179", "value": "OPERARIO BIODIESEL 3 " },
+      { "id": "car0180", "value": "OPERARIO CALDERA" },
+      { "id": "car0181", "value": "OPERARIO DE EMPAQUE DE GLICERINA" },
+      { "id": "car0182", "value": "OPERARIO DE PRODUCCIÓN " },
+      { "id": "car0183", "value": "OPERARIO DE SALA DE CONTROL" },
+      { "id": "car0184", "value": "OPERARIO DE SERVICIO DE PATIOS" },
+      { "id": "car0185", "value": "OPERARIO EMPAQUE GLICERINA " },
+      { "id": "car0186", "value": "OPERARIO FITONUTRIENTES" },
+      { "id": "car0187", "value": "OPERARIO MONTACARGAS" },
+      { "id": "car0188", "value": "OPERARIO PLANTA DE  BIODIESEL 1" },
+      { "id": "car0189", "value": "OPERARIO PLANTA DE BIODIESEL 3 " },
+      { "id": "car0190", "value": "OPERARIO PLANTA REFINERIA" },
+      { "id": "car0191", "value": "OPERARIO REFINERIA" },
+      { "id": "car0192", "value": "OPERARIO SALA DE CONTROL" },
+      { "id": "car0193", "value": "OPERARIO TRATAMIENTO DE AGUAS" },
+      { "id": "car0194", "value": "OPERARIO TRATAMIENTO DE AGUAS 1" },
+      { "id": "car0195", "value": "OPERARIO TRATAMIENTO DE AGUAS 2" },
+      { "id": "car0196", "value": "PASANTE ALMACEN" },
+      { "id": "car0197", "value": "PASANTE ALMACEN " },
+      { "id": "car0198", "value": "PASANTE AMBIENTAL" },
+      { "id": "car0199", "value": "PASANTE COMPRAS" },
+      { "id": "car0200", "value": "PASANTE CULTURA" },
+      { "id": "car0201", "value": "PASANTE FINANCIERA" },
+      { "id": "car0202", "value": "PASANTE HS" },
+      { "id": "car0203", "value": "PASANTE INGENIERIA" },
+      { "id": "car0204", "value": "PASANTE INSPECCION Y ENSAYO" },
+      { "id": "car0205", "value": "PASANTE LOGISTICA" },
+      { "id": "car0206", "value": "PASANTE NUEVOS NEGOCIOS" },
+      { "id": "car0207", "value": "PASANTE PLANEACIÓN FINANCIERA" },
+      { "id": "car0208", "value": "PASANTE PROYECTOS " },
+      { "id": "car0209", "value": "PLANEADOR DE MANTENIMIENTO" },
+      { "id": "car0210", "value": "PLANEADOR DE MANTENIMIENTO " },
+      { "id": "car0211", "value": "PROGRAMADOR DE MANTENIMIENTO " },
+      { "id": "car0212", "value": "PROGRAMADOR DE PROYECTOS" },
+      { "id": "car0213", "value": "RR" },
+      { "id": "car0214", "value": "RUTA" },
+      { "id": "car0215", "value": "RYM" },
+      { "id": "car0216", "value": "SAREIND SAS" },
+      { "id": "car0217", "value": "SEVICOL" },
+      { "id": "car0218", "value": "SOLDADOR" },
+      { "id": "car0219", "value": "SUPERNUMERARIA ADMINSITRATIVA" },
+      { "id": "car0220", "value": "SUPERNUMERARIO DE AGUAS" },
+      { "id": "car0221", "value": "SUPERNUMERARIO DE PRODUCCIÓN " },
+      { "id": "car0222", "value": "SUPERNUMERARIO PRODUCCIÓN" },
+      { "id": "car0223", "value": "SUPERNUMERARIO SALA DE CONTROL " },
+      { "id": "car0224", "value": "TECNICO ELECTRICISTA" },
+      { "id": "car0225", "value": "TECNICO ELECTRISISTA EN MANTENIMIENTO" },
+      { "id": "car0226", "value": "TECNICO INSTRUMENTISTA EN MANTENIMIENTO" },
+      { "id": "car0227", "value": "TECNICO MECANICO" },
+      { "id": "car0228", "value": "TECNICO MECANICO " },
+      { "id": "car0229", "value": "TECNICO MECANICO EN MANTENIMIENTO" },
+      { "id": "car0230", "value": "TECNICO SOLDADOR DE MANTENIMIENTO" },
+      { "id": "car0231", "value": "TECNIELETRICA" }
+    ],
+    "categoriaCumplimiento": [
+      { "codigo": "CC01", "ponderado": 1, "tipo": "Si" },
+      { "codigo": "CC02", "ponderado": 1, "tipo": "No" },
+      { "codigo": "CC03", "ponderado": 1, "tipo": "N/A" }
+    ],
+    "clasificacionProveedor": [
+      { "codigo": "CP01", "tipo": "Proveedor Riesgo Critico" },
+      { "codigo": "CP02", "tipo": "Proveedor Riesgo Medio" },
+      { "codigo": "CP03", "tipo": "Proveedor Riesgo Bajo" }
+    ],
+    "contratos": [
+      { "id": "cont00", "value": "6 MESES PASANTIA" },
+      { "id": "cont01", "value": "APRENDIZAJE" },
+      { "id": "cont02", "value": "OBRA Y LABOR" },
+      { "id": "cont03", "value": "TERMINO FIJO" },
+      { "id": "cont04", "value": "TERMINO INDEFINIDO" }
+    ],
+    "diasHabilesSeguridad": [
+      { "diaHabil": 2, "ultimosDigitosA": "00", "ultimosDigitosB": "07" },
+      { "diaHabil": 3, "ultimosDigitosA": "08", "ultimosDigitosB": 14 },
+      { "diaHabil": 4, "ultimosDigitosA": 15, "ultimosDigitosB": 21 },
+      { "diaHabil": 5, "ultimosDigitosA": 22, "ultimosDigitosB": 28 },
+      { "diaHabil": 6, "ultimosDigitosA": 29, "ultimosDigitosB": 35 },
+      { "diaHabil": 7, "ultimosDigitosA": 36, "ultimosDigitosB": 42 },
+      { "diaHabil": 8, "ultimosDigitosA": 43, "ultimosDigitosB": 49 },
+      { "diaHabil": 9, "ultimosDigitosA": 50, "ultimosDigitosB": 56 },
+      { "diaHabil": 10, "ultimosDigitosA": 57, "ultimosDigitosB": 63 },
+      { "diaHabil": 11, "ultimosDigitosA": 64, "ultimosDigitosB": 69 },
+      { "diaHabil": 12, "ultimosDigitosA": 70, "ultimosDigitosB": 75 },
+      { "diaHabil": 13, "ultimosDigitosA": 76, "ultimosDigitosB": 81 },
+      { "diaHabil": 14, "ultimosDigitosA": 82, "ultimosDigitosB": 87 },
+      { "diaHabil": 15, "ultimosDigitosA": 88, "ultimosDigitosB": 93 },
+      { "diaHabil": 16, "ultimosDigitosA": 94, "ultimosDigitosB": 99 }
+    ],
+    "enumerador": {
+      "1": "Primer",
+      "2": "Segund",
+      "3": "Tercer",
+      "4": "Cuart",
+      "5": "Quint",
+      "6": "Sext",
+      "7": "Séptim",
+      "8": "Octav",
+      "9": "Noven",
+      "10": "Décim",
+      "20": "Vigésim",
+      "30": "Trigésim",
+      "40": "Cuadragésim",
+      "50": "Quincuagésim",
+      "60": "Sexagésim",
+      "70": "Septuagésim",
+      "80": "Octogésim",
+      "90": "Nonagésim",
+      "100": "Centésim"
+    },
+    "estadoCivil": [
+      { "id": "ec00", "value": "CASADO" },
+      { "id": "ec01", "value": "SOLTERO" },
+      { "id": "ec02", "value": "UNIÓN LIBRE" }
+    ],
+    "estadoInduccion": [
+      { "codigo": "EI01", "tipo": "Aprobado" },
+      { "codigo": "EI02", "tipo": "No aprobado" }
+    ],
+    "estados": [
+      { "codigo": "E01", "tipo": "Abierto" },
+      { "codigo": "E02", "tipo": "Cerrado" },
+      { "codigo": "E03", "tipo": "Vencido" },
+      { "codigo": "E04", "tipo": "Aplazado" }
+    ],
+    "evaluacionProveedores": [
+      {
+        "codigo": "NORM1",
+        "codigoTema": "SST",
+        "descripcion": "Cumplimiento de Estándares mínimos SG SST-Legales e internos de BIOD",
+        "nombreTema": "Sistema de gestión de seguridad y salud en el trabajo"
+      },
+      {
+        "codigo": "NORM2",
+        "codigoTema": "SST",
+        "descripcion": "Autoevaluación del Dec 1072 y Licencia S.O. y Curso 50 Horas",
+        "nombreTema": "Sistema de gestión de seguridad y salud en el trabajo"
+      },
+      {
+        "codigo": "NORM3",
+        "codigoTema": "AMBIENTAL",
+        "descripcion": "Cumplimientos Normatividad legal Decreto 1076/2015",
+        "nombreTema": "Sistema de gestión ambiental"
+      },
+      {
+        "codigo": "NORM4",
+        "codigoTema": "AMBIENTAL",
+        "descripcion": "Cumplimientos Normatividad legal Decreto (1609/2002)-(1079/2015)",
+        "nombreTema": "Sistema de gestión ambiental"
+      }
+    ],
+    "genero": ["Masculino", "Femenino"],
+    "gerencias": [
+      { "id": "ger00", "value": "CADENA DE ABASTECIMIENTO" },
+      { "id": "ger01", "value": "CONTRATISTA" },
+      { "id": "ger02", "value": "CULTURA ORGANIZACIONAL " },
+      { "id": "ger03", "value": "CULTURA Y COMUNICACIÓN" },
+      { "id": "ger04", "value": "FINANCIERO" },
+      { "id": "ger05", "value": "GERENCIA GENERAL" },
+      { "id": "ger06", "value": "IMPLEMENTACION EN NUEVOS NEGOCIOS" },
+      { "id": "ger07", "value": "IMPLEMENTACIÓN NUEVOS NEGOCIOS " },
+      { "id": "ger08", "value": "MANTENIMIENTO Y SERVICIOS INDUSTRIALES" },
+      { "id": "ger09", "value": "MERCADEO" },
+      { "id": "ger010", "value": "NUEVOS NEGOCIOS" },
+      { "id": "ger011", "value": "PRODUCCIÓN " },
+      { "id": "ger012", "value": "PRODUCCION SOSTENIBLE" },
+      { "id": "ger013", "value": "SEGURIDAD" },
+      { "id": "ger014", "value": "ZONA FRANCA" }
+    ],
+    "grupoSanguineo": ["A", "O", "AB", "B"],
+    "listaOrigenPlanes": [
+      { "codigo": "O1", "tipo": "Comerciales" },
+      { "codigo": "O2", "tipo": "Contractuales" },
+      { "codigo": "O3", "tipo": "Otro" }
+    ],
+    "meses": [
+      { "codigo": "MES01", "mes": 1, "tipo": "Enero" },
+      { "codigo": "MES02", "mes": 2, "tipo": "Febrero" },
+      { "codigo": "MES03", "mes": 3, "tipo": "Marzo" },
+      { "codigo": "MES04", "mes": 4, "tipo": "Abril" },
+      { "codigo": "MES05", "mes": 5, "tipo": "Mayo" },
+      { "codigo": "MES06", "mes": 6, "tipo": "Junio" },
+      { "codigo": "MES07", "mes": 7, "tipo": "Julio" },
+      { "codigo": "MES08", "mes": 8, "tipo": "Agosto" },
+      { "codigo": "MES09", "mes": 9, "tipo": "Septiembre" },
+      { "codigo": "MES10", "mes": 10, "tipo": "Octubre" },
+      { "codigo": "MES11", "mes": 11, "tipo": "Noviembre" },
+      { "codigo": "MES12", "mes": 12, "tipo": "Diciembre" }
+    ],
+    "nivelEducativo": [
+      { "id": "ne00", "value": "BACHILLER" },
+      { "id": "ne01", "value": "BASICA PRIMARIA" },
+      { "id": "ne02", "value": "CADENA DE ABASTECIMIENTO" },
+      { "id": "ne03", "value": "CULTURA ORGANIZACIONAL " },
+      { "id": "ne04", "value": "ESPECIALIZACIÓN" },
+      { "id": "ne05", "value": "FINANCIERO" },
+      { "id": "ne06", "value": "GERENTE GENERAL" },
+      { "id": "ne07", "value": "IMPLEMENTACION EN NUEVOS NEGOCIOS" },
+      { "id": "ne08", "value": "MAESTRIA " },
+      { "id": "ne09", "value": "MAESTRIA EN CURSO " },
+      { "id": "ne010", "value": "MANTENIMIENTO" },
+      { "id": "ne011", "value": "MERCADEO" },
+      { "id": "ne012", "value": "NOVENO" },
+      { "id": "ne013", "value": "NUEVOS NEGOCIOS" },
+      { "id": "ne014", "value": "POSGRADO" },
+      { "id": "ne015", "value": "PRODUCCION SOSTENIBLE" },
+      { "id": "ne016", "value": "PROFESIONAL" },
+      { "id": "ne017", "value": "PROFESIONAL EN FORMACIÓN " },
+      { "id": "ne018", "value": "SEGURIDAD" },
+      { "id": "ne019", "value": "TECNICO" },
+      { "id": "ne020", "value": "TECNICO PROFESIONAL" },
+      { "id": "ne021", "value": "TECNOLOGO" },
+      { "id": "ne022", "value": "UNIVERSITARIO" },
+      { "id": "ne023", "value": "ZONA FRANCA" }
+    ],
+    "preguntasAudAmbiental": [
+      {
+        "codigoPregunta": "AA001",
+        "descripcion": "Plan de contingencias para el manejo de derrames  de hidrocarburos o sustancias nocivas (en caso de emergencia, incidente o accidente con mercancías peligrosas en carretera), con su respectivo radicado ante la autoridad ambiental.",
+        "puntaje": 1,
+        "tema": "Transporte"
+      },
+      {
+        "codigoPregunta": "AA002",
+        "descripcion": "Fichas de datos de seguridad para transporte de mercancías peligrosas.",
+        "puntaje": 1,
+        "tema": "Transporte"
+      },
+      {
+        "codigoPregunta": "AA003",
+        "descripcion": "Tarjetas de emergencia para transporte de mercancías peligrosas.",
+        "puntaje": 1,
+        "tema": "Transporte"
+      },
+      {
+        "codigoPregunta": "AA004",
+        "descripcion": "Certificado de curso básico obligatorio de capacitación para conductores de vehículos que transporten mercancías peligrosas.",
+        "puntaje": 1,
+        "tema": "Transporte"
+      },
+      {
+        "codigoPregunta": "AA005",
+        "descripcion": "Póliza de responsabilidad civil extracontractual o hidrocarburos.",
+        "puntaje": 1,
+        "tema": "Transporte"
+      },
+      {
+        "codigoPregunta": "AA006",
+        "descripcion": "Registro de capacitación al personal que manipula mercancías peligrosas en la atención de emergencias, incidentes o accidentes causados por mercancías peligrosas.",
+        "puntaje": 1,
+        "tema": "Transporte"
+      },
+      {
+        "codigoPregunta": "AA007",
+        "descripcion": "Registro de inspección de botiquín y kit de derrames del vehículo que transporta mercancías peligrosas.",
+        "puntaje": 1,
+        "tema": "Transporte"
+      },
+      {
+        "codigoPregunta": "AA008",
+        "descripcion": "Lista de chequeo preoperacional del vehículo que transporta mercancías peligrosas.",
+        "puntaje": 1,
+        "tema": "Transporte"
+      },
+      {
+        "codigoPregunta": "AA009",
+        "descripcion": "Registro fotográfico del etiquetado del vehículo según lo estipulado en la Norma Técnica Colombiana NTC 1692 y las NTC 47022-23-24-25-26-27-28-29 en sus respectivos anexos y el Sistema Globalmente Armonizado de clasificación y etiquetado de productos químicos.",
+        "puntaje": 1,
+        "tema": "Transporte"
+      },
+      {
+        "codigoPregunta": "AA010",
+        "descripcion": "Revisión tecno mecánica con el respectivo informe de resultados de opacidad.",
+        "puntaje": 1,
+        "tema": "Transporte"
+      },
+      {
+        "codigoPregunta": "AA011",
+        "descripcion": "Estadística baja de derrames y gestion de todas las actividades de la fase de corrección",
+        "puntaje": 1,
+        "tema": "Transporte"
+      },
+      {
+        "codigoPregunta": "AA012",
+        "descripcion": "PMA (Plan de Manejo Ambiental)",
+        "puntaje": 1,
+        "tema": "inHouse"
+      },
+      {
+        "codigoPregunta": "AA013",
+        "descripcion": "Matriz de aspectos e impactos ambientales",
+        "puntaje": 1,
+        "tema": "inHouse"
+      },
+      {
+        "codigoPregunta": "AA014",
+        "descripcion": "Programas ambientales alineados al control de los impactos significativos",
+        "puntaje": 1,
+        "tema": "inHouse"
+      },
+      {
+        "codigoPregunta": "AA015",
+        "descripcion": "Inventario de residuos generados en la actividades desarrolladas o Actas de disposición y/o aprovechamiento",
+        "puntaje": 0.5,
+        "tema": "inHouse"
+      },
+      {
+        "codigoPregunta": "AA016",
+        "descripcion": "¿Cuentan con Licencias ambientales, permisos y autorizaciones que exige la ley?",
+        "puntaje": 1,
+        "tema": "insumosQuimicos"
+      },
+      {
+        "codigoPregunta": "AA017",
+        "descripcion": "¿Plan de contingencias para el manejo de derrames  de hidrocarburos o sustancias nocivas (en caso de emergencia, incidente o accidente con mercancías peligrosas en carretera), con su respectivo radicado ante la autoridad ambiental?",
+        "puntaje": 1,
+        "tema": "insumosQuimicos"
+      },
+      {
+        "codigoPregunta": "AA018",
+        "descripcion": "¿Poseen Ficha de datos de seguridad y tarjetas de emergencia para transporte de mercancías peligrosas?",
+        "puntaje": 1,
+        "tema": "insumosQuimicos"
+      },
+      {
+        "codigoPregunta": "AA019",
+        "descripcion": "¿Cuenta Certificado de curso básico obligatorio de capacitación para conductores de vehículos que transporten mercancías peligrosa?",
+        "puntaje": 1,
+        "tema": "insumosQuimicos"
+      },
+      {
+        "codigoPregunta": "AA020",
+        "descripcion": "¿Cuentan con Póliza de responsabilidad civil extracontractual O hidrocarburos?",
+        "puntaje": 1,
+        "tema": "insumosQuimicos"
+      },
+      {
+        "codigoPregunta": "AA021",
+        "descripcion": "¿Cuentan con Registro de capacitación al personal que manipula mercancías peligrosas en la atención de emergencias, incidentes o accidentes causados por mercancías peligrosas?",
+        "puntaje": 1,
+        "tema": "insumosQuimicos"
+      },
+      {
+        "codigoPregunta": "AA022",
+        "descripcion": "¿Cuentan con Registro de inspección de botiquín y kit de derrames del vehículo que transporta mercancías peligrosas.?",
+        "puntaje": 1,
+        "tema": "insumosQuimicos"
+      },
+      {
+        "codigoPregunta": "AA023",
+        "descripcion": "¿Cuentan con Lista de chequeo preoperacional del vehículo que transporta mercancías peligrosas?",
+        "puntaje": 1,
+        "tema": "insumosQuimicos"
+      },
+      {
+        "codigoPregunta": "AA024",
+        "descripcion": "¿Cuentan con Registro fotográfico del etiquetado del vehículo según lo estipulado en la Norma Técnica Colombiana NTC 1692 y las NTC 47022-23-24-25-26-27-28-29 en sus respectivos anexos y el Sistema Globalmente Armonizado de clasificación y etiquetado de productos químicos?",
+        "puntaje": 1,
+        "tema": "insumosQuimicos"
+      },
+      {
+        "codigoPregunta": "AA025",
+        "descripcion": "¿Cuentan Revisión tecno mecánica con el respectivo informe de resultados de opacidad?",
+        "puntaje": 1,
+        "tema": "insumosQuimicos"
+      }
+    ],
+    "procesos": [
+      { "id": "proc1", "value": "AGUAS Y GESTION AMBIENTAL" },
+      { "id": "proc2", "value": "BOTTOM UP" },
+      { "id": "proc3", "value": "COMPRAS Y ALMACEN" },
+      { "id": "proc4", "value": "CONTABILIDAD" },
+      { "id": "proc5", "value": "CULTURA ORGANIZACIONAL" },
+      { "id": "proc6", "value": "GESTIÓN DE T.I" },
+      { "id": "proc7", "value": "GESTION Y DESARROLLO DE PROVEEDORES" },
+      { "id": "proc8", "value": "HSE" },
+      { "id": "proc9", "value": "INNOVACIÓN" },
+      { "id": "proc10", "value": "INSPECCIÓN Y ENSAYO" },
+      { "id": "proc11", "value": "INVESTIGACIÓN Y DESARROLLO" },
+      { "id": "proc12", "value": "LOGISTICA" },
+      { "id": "proc13", "value": "MANTENIMIENTO" },
+      { "id": "proc14", "value": "MERCADEO" },
+      { "id": "proc15", "value": "NUEVOS NEGOCIOS" },
+      { "id": "proc16", "value": "PLANEACION FINANCIERA" },
+      { "id": "proc17", "value": "PRODUCCIÓN" },
+      { "id": "proc18", "value": "PROYECTOS E INGENIERIA" },
+      { "id": "proc19", "value": "SERVICIOS INDUSTRIALES" },
+      { "id": "proc20", "value": "SISTEMA INTEGRADO DE GESTION" },
+      { "id": "proc21", "value": "TESORERIA" }
+    ],
+    "profesiones": [
+      { "id": "prof00", "value": "ADMINISTRACIÓN DE EMPRESAS " },
+      {
+        "id": "prof01",
+        "value": "ADMINISTRACIÓN EN GESTIÓN DE OBRAS CIVILES Y CONSTRUCCIONES"
+      },
+      { "id": "prof02", "value": "ASISTENTE ADMINISTRATIVO" },
+      { "id": "prof03", "value": "AUXILIAR DE MUESTRAS" },
+      { "id": "prof04", "value": "CIENTIFICO DE DATOS" },
+      { "id": "prof05", "value": "COMERCIO INTERNACIONAL " },
+      { "id": "prof06", "value": "COMUNICADORA SOCIAL PERIODISTA" },
+      { "id": "prof07", "value": "CONTABLE " },
+      { "id": "prof08", "value": "CONTADOR PUBLICO" },
+      { "id": "prof09", "value": "CONTADOR PUBLICO " },
+      { "id": "prof010", "value": "CONTADORA" },
+      { "id": "prof011", "value": "ELECTRICISTA " },
+      { "id": "prof012", "value": "ELECTROMECÁNICO MAQUINARÍA INDUSTRIAL" },
+      { "id": "prof013", "value": "EN MANTENIMIENTO" },
+      { "id": "prof014", "value": "FINANZAS Y RELACIONES INTERNACIONALES" },
+      { "id": "prof015", "value": "GESTION DE DOCUMENTOS CONTABLES " },
+      { "id": "prof016", "value": "ING AMBIENTAL " },
+      { "id": "prof017", "value": "ING QUIMICA" },
+      { "id": "prof018", "value": "INGENIERA AMBIENTAL Y SANITARIA" },
+      { "id": "prof019", "value": "INGENIERÍA QUIMICA" },
+      { "id": "prof020", "value": "INGENIERO AMBIENTAL" },
+      { "id": "prof021", "value": "INGENIERO CIVIL " },
+      { "id": "prof022", "value": "INGENIERO INDUSTRIAL" },
+      { "id": "prof023", "value": "INGENIERO MECANICO" },
+      { "id": "prof024", "value": "INGENIERO QUIMICO" },
+      { "id": "prof025", "value": "INSTALACIONES DE REDES" },
+      { "id": "prof026", "value": "MAMTENIMIENTO ELECTRONICO INDUSTRIAL " },
+      { "id": "prof027", "value": "MECANICO" },
+      { "id": "prof028", "value": "MECANOICA INDUSTRIAL " },
+      { "id": "prof029", "value": "MECATRONICA" },
+      { "id": "prof030", "value": "MERCADEO Y PUBLICIDAD" },
+      { "id": "prof031", "value": "NA" },
+      { "id": "prof032", "value": "NEGOCIACION INTERNACIONAL " },
+      { "id": "prof033", "value": "NEGOCIO INTERNACIONALES " },
+      { "id": "prof034", "value": "PSICOLOGÍA " },
+      { "id": "prof035", "value": "QUIMICA" },
+      { "id": "prof036", "value": "QUIMICA INDUSTRIAL" },
+      { "id": "prof037", "value": "QUIMICO" },
+      { "id": "prof038", "value": "QUIMICO INDUSTRIAL" },
+      { "id": "prof039", "value": "TECNICA ASISTENTE ADMON." },
+      { "id": "prof040", "value": "TECNICO ASISTENTE ADMINISTRATIVA" },
+      { "id": "prof041", "value": "TECNICO ELECTRICISTA" }
+    ],
+    "programas": [
+      {
+        "codigo": "prog1",
+        "descripcion": "Contratistas",
+        "normativa": "NORM2",
+        "tipoEvaluacion": "EVA2"
+      },
+      {
+        "codigo": "prog2",
+        "descripcion": "Emergencias",
+        "normativa": "NORM2",
+        "tipoEvaluacion": "EVA2"
+      },
+      {
+        "codigo": "prog3",
+        "descripcion": "EPP",
+        "normativa": "NORM2",
+        "tipoEvaluacion": "EVA2"
+      },
+      {
+        "codigo": "prog4",
+        "descripcion": "Gestión documental",
+        "normativa": "NORM2",
+        "tipoEvaluacion": "EVA2"
+      },
+      {
+        "codigo": "prog5",
+        "descripcion": "Gestión integral de agua",
+        "normativa": "NORM2",
+        "tipoEvaluacion": "EVA2"
+      },
+      {
+        "codigo": "prog6",
+        "descripcion": "Gestión de residuos sólidos",
+        "normativa": "NORM2",
+        "tipoEvaluacion": "EVA2"
+      },
+      {
+        "codigo": "prog7",
+        "descripcion": "Herramientas",
+        "normativa": "NORM2",
+        "tipoEvaluacion": "EVA2"
+      },
+      {
+        "codigo": "prog8",
+        "descripcion": "Órden y aseo",
+        "normativa": "NORM2",
+        "tipoEvaluacion": "EVA2"
+      },
+      {
+        "codigo": "prog9",
+        "descripcion": "Panorama de riesgos",
+        "normativa": "NORM2",
+        "tipoEvaluacion": "EVA2"
+      },
+      {
+        "codigo": "prog10",
+        "descripcion": "PQRS",
+        "normativa": "NORM2",
+        "tipoEvaluacion": "EVA2"
+      },
+      {
+        "codigo": "prog11",
+        "descripcion": "Señalización",
+        "normativa": "NORM2",
+        "tipoEvaluacion": "EVA2"
+      },
+      {
+        "codigo": "prog12",
+        "descripcion": "SPT",
+        "normativa": "NORM2",
+        "tipoEvaluacion": "EVA2"
+      },
+      {
+        "codigo": "prog13",
+        "descripcion": "Sustancias químicas",
+        "normativa": "NORM2",
+        "tipoEvaluacion": "EVA2"
+      },
+      {
+        "codigo": "prog14",
+        "descripcion": "Sistema de vigilancia epidemiológica",
+        "normativa": "NORM2",
+        "tipoEvaluacion": "EVA2"
+      },
+      {
+        "codigo": "prog15",
+        "descripcion": "SVE logística",
+        "normativa": "NORM2",
+        "tipoEvaluacion": "EVA2"
+      },
+      {
+        "codigo": "prog16",
+        "descripcion": "SYC abastecimiento aceite",
+        "normativa": "NORM2",
+        "tipoEvaluacion": "EVA2"
+      },
+      {
+        "codigo": "prog17",
+        "descripcion": "SYC agua",
+        "normativa": "NORM2",
+        "tipoEvaluacion": "EVA2"
+      },
+      {
+        "codigo": "prog18",
+        "descripcion": "SYC almacén",
+        "normativa": "NORM2",
+        "tipoEvaluacion": "EVA2"
+      },
+      {
+        "codigo": "prog19",
+        "descripcion": "SYC almacén residuos",
+        "normativa": "NORM2",
+        "tipoEvaluacion": "EVA2"
+      },
+      {
+        "codigo": "prog20",
+        "descripcion": "SYC bienestar nómina",
+        "normativa": "NORM2",
+        "tipoEvaluacion": "EVA2"
+      },
+      {
+        "codigo": "prog21",
+        "descripcion": "SYC biodiesel",
+        "normativa": "NORM2",
+        "tipoEvaluacion": "EVA2"
+      },
+      {
+        "codigo": "prog22",
+        "descripcion": "SYC comunicación",
+        "normativa": "NORM2",
+        "tipoEvaluacion": "EVA2"
+      },
+      {
+        "codigo": "prog23",
+        "descripcion": "SYC desarrollo integral",
+        "normativa": "NORM2",
+        "tipoEvaluacion": "EVA2"
+      },
+      {
+        "codigo": "prog24",
+        "descripcion": "SYC financiero",
+        "normativa": "NORM2",
+        "tipoEvaluacion": "EVA2"
+      },
+      {
+        "codigo": "prog25",
+        "descripcion": "SYC glicerina",
+        "normativa": "NORM2",
+        "tipoEvaluacion": "EVA2"
+      },
+      {
+        "codigo": "prog26",
+        "descripcion": "SYC incorporación",
+        "normativa": "NORM2",
+        "tipoEvaluacion": "EVA2"
+      },
+      {
+        "codigo": "prog27",
+        "descripcion": "SYC ingeniería",
+        "normativa": "NORM2",
+        "tipoEvaluacion": "EVA2"
+      },
+      {
+        "codigo": "prog28",
+        "descripcion": "SYC inspección y ensayo",
+        "normativa": "NORM2",
+        "tipoEvaluacion": "EVA2"
+      },
+      {
+        "codigo": "prog29",
+        "descripcion": "SYC mejora",
+        "normativa": "NORM2",
+        "tipoEvaluacion": "EVA2"
+      },
+      {
+        "codigo": "prog30",
+        "descripcion": "SYC metrología",
+        "normativa": "NORM2",
+        "tipoEvaluacion": "EVA2"
+      },
+      {
+        "codigo": "prog31",
+        "descripcion": "SYC mantenimiento",
+        "normativa": "NORM2",
+        "tipoEvaluacion": "EVA2"
+      },
+      {
+        "codigo": "prog32",
+        "descripcion": "SYC reesterificado",
+        "normativa": "NORM2",
+        "tipoEvaluacion": "EVA2"
+      },
+      {
+        "codigo": "prog33",
+        "descripcion": "SYC refinería",
+        "normativa": "NORM2",
+        "tipoEvaluacion": "EVA2"
+      },
+      {
+        "codigo": "prog34",
+        "descripcion": "Proveedor crítico",
+        "normativa": "NORM1",
+        "tipoEvaluacion": "EVA1"
+      },
+      {
+        "codigo": "prog35",
+        "descripcion": "Evaluación de materias primas",
+        "normativa": "NORM3",
+        "tipoEvaluacion": "EVA3"
+      },
+      {
+        "codigo": "prog36",
+        "descripcion": "Evaluacion de proveedores de trasporte",
+        "normativa": "NORM4",
+        "tipoEvaluacion": "EVA4"
+      }
+    ],
+    "puntajeEvaluar": [
+      { "codigo": "P01", "puntaje": 0, "tipo": "No aplicable" },
+      { "codigo": "P02", "puntaje": 1, "tipo": "No cumple" },
+      { "codigo": "P03", "puntaje": 2, "tipo": "Cumple mínimamente" },
+      { "codigo": "P04", "puntaje": 3, "tipo": "Cumple parcialmente" },
+      { "codigo": "P05", "puntaje": 4, "tipo": "Cumple plenamente" },
+      { "codigo": "P06", "puntaje": 5, "tipo": "Supera las expectativas" }
+    ],
+    "servicios": [
+      { "codigo": "S01", "tipo": "Eléctrico" },
+      { "codigo": "S02", "tipo": "Mantenimiento general" },
+      { "codigo": "S03", "tipo": "Transporte de personal" },
+      { "codigo": "S04", "tipo": "Mecánico" },
+      { "codigo": "S05", "tipo": "Servicios generales" },
+      { "codigo": "S06", "tipo": "Transporte de productos" },
+      { "codigo": "S07", "tipo": "Civil" },
+      { "codigo": "S08", "tipo": "Izajes" },
+      { "codigo": "S09", "tipo": "Otro" }
+    ],
+    "temasAuditoria": [
+      { "codigo": "Tem001", "ponderado": 5, "tipo": "Resolución 0312" },
+      { "codigo": "Tem002", "ponderado": 30, "tipo": "Decreto 1072" },
+      {
+        "codigo": "Tem003",
+        "ponderado": 2,
+        "tipo": "Afiliación al sistema de seguridad social"
+      },
+      { "codigo": "Tem004", "ponderado": 10, "tipo": "Plan básico HSEQ" },
+      {
+        "codigo": "Tem005",
+        "ponderado": 18,
+        "tipo": "Certificado para el desarrollo de labores de alto riesgo / resolución 4272-0491"
+      },
+      {
+        "codigo": "Tem006",
+        "ponderado": 2,
+        "tipo": "Suministro de elementos de protección personal (EPP)"
+      },
+      { "codigo": "Tem007", "ponderado": 2, "tipo": "Inducción en HSE" },
+      {
+        "codigo": "Tem008",
+        "ponderado": 16,
+        "tipo": "Reglamento de contratistas (Parte I)"
+      },
+      {
+        "codigo": "Tem009",
+        "ponderado": 15,
+        "tipo": "Reglamento de contratistas( Parte II)"
+      }
+    ],
+    "temasEventos": [
+      { "codigo": "TEM05", "periodoVigencia": "", "tipo": "Actos inseguros" },
+      {
+        "codigo": "TEM06",
+        "periodoVigencia": "",
+        "tipo": "Accidentes de trabajo"
+      }
+    ],
+    "temasHistorialTrabajador": [
+      { "codigo": "TEM01", "periodoVigencia": "365", "tipo": "Inducción HS" },
+      {
+        "codigo": "TEM02",
+        "periodoVigencia": "365",
+        "tipo": "Inducción ambiental"
+      },
+      {
+        "codigo": "TEM03",
+        "periodoVigencia": "547",
+        "tipo": "Curso de trabajo en alturas"
+      },
+      {
+        "codigo": "TEM04",
+        "periodoVigencia": "1095",
+        "tipo": "Curso de trabajo en espacios confinados"
+      }
+    ],
+    "temasPlan": [
+      { "codigo": "Tem001", "ponderado": 5, "tipo": "Resolución 0312" },
+      { "codigo": "Tem002", "ponderado": 30, "tipo": "Decreto 1072" },
+      {
+        "codigo": "Tem003",
+        "ponderado": 2,
+        "tipo": "Afiliación al sistema de seguridad social"
+      },
+      { "codigo": "Tem004", "ponderado": 10, "tipo": "Plan básico HSEQ" },
+      {
+        "codigo": "Tem005",
+        "ponderado": 18,
+        "tipo": "Certificado para el desarrollo de labores de alto riesgo / resolución 4272-0491"
+      },
+      {
+        "codigo": "Tem006",
+        "ponderado": 2,
+        "tipo": "Suministro de elementos de protección personal (EPP)"
+      },
+      { "codigo": "Tem007", "ponderado": 2, "tipo": "Inducción en HSE" },
+      {
+        "codigo": "Tem008",
+        "ponderado": 16,
+        "tipo": "Reglamento de contratistas (Parte I)"
+      },
+      {
+        "codigo": "Tem009",
+        "ponderado": 15,
+        "tipo": "Reglamento de contratistas( Parte II)"
+      }
+    ],
+    "tipoAuditoria": [
+      { "codigo": "TA01", "tipo": "Auditoría" },
+      { "codigo": "TA02", "tipo": "Inspección" }
+    ],
+    "tipoBien": [
+      { "codigo": "TB01", "tipo": "Bien" },
+      { "codigo": "TB02", "tipo": "Servicio" }
+    ],
+    "tipoContratista": [
+      { "codigo": "TIPO1", "tipo": "Transporte" },
+      { "codigo": "TIPO2", "tipo": "Insumos" },
+      { "codigo": "TIPO3", "tipo": "Materia Prima (Maquila)" },
+      { "codigo": "TIPO4", "tipo": "Equipos y materiales para laboratorios" },
+      { "codigo": "TIPO5", "tipo": "Servicios Especializados" },
+      { "codigo": "TIPO6", "tipo": "Servicios de calibraciones y metrologia" },
+      { "codigo": "TIPO7", "tipo": "Servicios Fabricaciones Especiales" },
+      { "codigo": "TIPO8", "tipo": "Contratistas In House" },
+      { "codigo": "TIPO9", "tipo": "Materiales (Mec,Elect,Inst)" },
+      { "codigo": "TIPO10", "tipo": "Proveedores Ambientales" },
+      {
+        "codigo": "TIPO11",
+        "tipo": "Otros (Aduanas, Agentes Carga y Seguros)"
+      },
+      { "codigo": "TIPO12", "tipo": "Otros proveedores" },
+      { "codigo": "TIPO13", "tipo": "No aplica" }
+    ],
+    "tipoCriterio": [
+      { "codigo": "TC01", "tipo": "Aceptable" },
+      { "codigo": "TC02", "tipo": "No aceptable" }
+    ],
+    "tipoEvaluacion": [
+      { "codigo": "TE01", "value": "Transporte" },
+      { "codigo": "TE02", "value": "inHouse" },
+      { "codigo": "TE01", "value": "insumosQuimicos" }
+    ],
+    "tipoGenero": [
+      { "codigo": "F", "tipo": "F" },
+      { "codigo": "M", "tipo": "M" }
+    ],
+    "tipoID": [
+      { "codigo": "ID01", "tipo": "CC" },
+      { "codigo": "ID02", "tipo": "CE" },
+      { "codigo": "ID03", "tipo": "TI" },
+      { "codigo": "ID04", "tipo": "NIT" }
+    ],
+    "tipoProveedor": [
+      { "codigo": "TP01", "tipo": "Transporte" },
+      { "codigo": "TP02", "tipo": "Insumos" },
+      { "codigo": "TP03", "tipo": "Materia Prima ( ACEITES ) y Maquilas" },
+      { "codigo": "TP04", "tipo": "Equipos y materiales para laboratorios" },
+      {
+        "codigo": "TP05",
+        "tipo": "Servicios Especializados asesorias,capacitaciones,publicidad"
+      },
+      { "codigo": "TP06", "tipo": "Servicios de calibraciones y metrologia" },
+      {
+        "codigo": "TP07",
+        "tipo": "Servicios de mantenimeintos y fabricaciones especializadas"
+      },
+      { "codigo": "TP08", "tipo": "Contratistas ( in house)" },
+      {
+        "codigo": "TP09",
+        "tipo": "Proveedores de materiales (Mecanicos,electricos,instrumentacion,otros)"
+      },
+      { "codigo": "TP10", "tipo": "Proveedores ambientales" },
+      {
+        "codigo": "TP11",
+        "tipo": "Otros servicios (aduanas, agentes de carga, seguros)"
+      },
+      { "codigo": "TP12", "tipo": "Otros proveedores" },
+      { "codigo": "TP13", "tipo": "Seguridad y salud en el trabajo" }
+    ],
+    "tipoRH": [
+      { "codigo": "TRH01", "tipo": "P" },
+      { "codigo": "TRH02", "tipo": "N" }
+    ],
+    "tipoSangre": [
+      { "codigo": "TS01", "tipo": "O" },
+      { "codigo": "TS02", "tipo": "A" },
+      { "codigo": "TS03", "tipo": "B" },
+      { "codigo": "TS04", "tipo": "AB" }
+    ],
+    "turnos": [
+      { "id": "tur00", "value": "ADMINISTRATIVO" },
+      { "id": "tur01", "value": "DIURNO " },
+      { "id": "tur02", "value": "DIURNO Y NOTURNO" },
+      { "id": "tur03", "value": "NOTURNO" }
+    ]
+  },
+  "responsablesPlan": [
+    { "codigo": "proc1", "value": "YENIFER CARDONA" },
+    { "codigo": "proc2", "value": "CAMACHO LOZADA LUZ JENNY" },
+    { "codigo": "proc3", "value": "CESAR OSORIO" },
+    { "codigo": "proc4", "value": "HENRY BALLEN" },
+    { "codigo": "proc5", "value": "MONICA RIAÑO" },
+    { "codigo": "proc6", "value": "CARLOS DIAZ SILVA" },
+    { "codigo": "proc7", "value": "GLORIA SANTOS" },
+    { "codigo": "proc8", "value": "EDWIN RAMOS" },
+    { "codigo": "proc9", "value": "EDGAR CASTIBLANCO" },
+    { "codigo": "proc10", "value": "ADRIANA MARQUEZ" },
+    { "codigo": "proc11", "value": "LUIS MIGUEL RAMIREZ" },
+    { "codigo": "proc12", "value": "NANCY ROMERO" },
+    { "codigo": "proc13", "value": "DANNY RODRIGUEZ" },
+    { "codigo": "proc14", "value": "CATALINA CABRERA" },
+    { "codigo": "proc15", "value": "FRANCY CAMELO" },
+    { "codigo": "proc16", "value": "MARCELA SOLER" },
+    { "codigo": "proc17", "value": "JORGE MARTINEZ" },
+    { "codigo": "proc18", "value": "OSCAR BERNAL" },
+    { "codigo": "proc19", "value": "DANNY RODRIGUEZ" },
+    { "codigo": "proc20", "value": "MADELEYM RAMIREZ" },
+    { "codigo": "proc21", "value": "JOHANNA RODRIGUEZ" }
+  ]
+}

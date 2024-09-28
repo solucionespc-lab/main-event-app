@@ -1,0 +1,19 @@
+{
+  "name": "plantillas/CertificadoCorreo.hbs",
+  "bucket": "internal-bucket-biod",
+  "metageneration": 1,
+  "generation": 1724166293271,
+  "contentType": "application/octet-stream",
+  "storageClass": "STANDARD",
+  "contentDisposition": "inline",
+  "downloadTokens": [
+    "567835c3-2245-46d5-8c01-5edc4d385f05"
+  ],
+  "etag": "tYDE+1uhzwh5GQX6E9U7ukgOgsM",
+  "customMetadata": {},
+  "timeCreated": "2024-08-20T15:04:53.271Z",
+  "updated": "2024-08-20T15:04:53.271Z",
+  "size": 3949,
+  "md5Hash": "uhseaDNjkjG4PSpFTNNjIA==",
+  "crc32c": "2322915433"
+}

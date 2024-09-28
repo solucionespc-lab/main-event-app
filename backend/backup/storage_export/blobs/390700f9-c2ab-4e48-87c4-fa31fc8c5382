@@ -1,0 +1,388 @@
+<html lang='es'>
+  <head>
+    <meta charset='UTF-8' />
+    <meta name='viewport' content='width=device-width; initial-scale=1.0' />
+    <style>
+      * { margin: 0; font-family: 'Century Gothic'; font-size: 14px; } body {
+      padding: 16px; } small { color:rgb(32, 32, 32); font-size: 10px } .logo {
+      width: 100px; height: 100px; } .encabezado { display: flex; align-items:
+      center; } .empresa-info { display: flex; justify-content: flex-end;
+      align-items: end; flex-direction: column; border-top: 1px solid #000;
+      border-left: 1px solid #000; border-right: 1px solid #000; padding: 5px; }
+      .info-tipo-doc { display: flex; justify-content: end; align-items: center;
+      border: 1px solid #000; } .cod-documento { display: flex; flex-direction:
+      column; justify-content: center; align-items: center; padding: 0 50px;
+      width: 50%; } .contenedor-codificacion { display: flex; flex-direction:
+      column; justify-content: center; align-items: center; border-left: 1px
+      solid #000; } .cod-doc-registro { display: flex; flex-direction: column;
+      text-align: center; padding: 3px 5px; } .cont-info-proveedor { display:
+      flex; } .info-proveedor { display: flex; flex-direction: column; }
+      .detalle { display: flex; gap: 8px; padding: 5px; } .contenedor-flex-row {
+      display: flex; } .contenedor-flex-column { display: flex; flex-direction:
+      column; } .ponderado { width: 20px; height: 20px; border: 1px solid #000;
+      width: 100%; text-align: center; margin-bottom: 2px; } .pregunta { width:
+      20px; height: 20px; border: 1px solid #000; width: 100%; margin-bottom:
+      2px; } .titulo-preguntas { background-color: rgb(160, 179, 241);
+      text-align: center; border: 1px solid #000; } .titulo-tema {
+      background-color: rgb(230, 230, 230); text-align: center; border: 1px
+      solid #000; margin: 20px 0; } .enc-puntaje { text-align: center; border:
+      1px solid #000; height: fit-content; padding: 0 2px; margin-bottom: 4px; }
+      .titulo-tema-sistema { background-color: rgb(230, 230, 230); text-align:
+      center; border: 1px solid #000; padding: 15px; font-weight: 800; }
+      .sistema-punto { background-color: rgb(160, 179, 241); padding: 1px 10px;
+      border-top: 1px solid #000; border-right: 1px solid #000; font-weight:
+      700; } .sistema-tipo { padding: 1px 10px; border-top: 1px solid #000;
+      border-right: 1px solid #000; text-align: center; width: 100%; }
+      .observaciones-eva { line-height: 20px; text-align: justify; } .break-page
+      { display: block; page-break-before: always; }
+    </style>
+  </head>
+  <body>
+    <div class='encabezado'>
+      <img
+        class='logo'
+        src='https://firebasestorage.googleapis.com/v0/b/internal-bucket-biod/o/logo.ico?alt=media&token=b5bf6eec-021d-4bc0-93e2-f2c9f84e6ab8'
+        alt='logo-biod'
+      />
+      <div style='width: 100%'>
+        <div class='empresa-info'>
+          <small>Nit: 900.104.517-8</small>
+          <small style='text-align: right'>ZONA FRANCA PERMANENTE ESPECIAL BIO D
+            FACATATIVÁ TERMINAL DE COMBUSTIBLES DE LA SABANA MANCILLA -
+            ECOPETROL,FACATATIVÁ, CUNDINAMARCA,COLOMBIA</small>
+        </div>
+
+        <div class='info-tipo-doc'>
+          <div class='cod-documento'>
+            <small>02-02-02 - Gestión de compras y contratación</small>
+            <h3>EVALUACIÓN DE PROVEEDORES</h3>
+          </div>
+
+          <div class='contenedor-codificacion'>
+            <div class='contenedor-flex-row'>
+              <div class='cod-doc-registro'>
+                <small>COM-FOR-005</small>
+                <small>Versión: 10</small>
+              </div>
+              <div
+                style='padding: 0 20px; border-left: 1px solid #000;'
+                class='cod-doc-registro'
+              >
+                <small>Vigente desde</small>
+                <small>02/09/2022</small>
+              </div>
+            </div>
+            <small
+              style='align-self: flex-start;border-top: 1px solid #000; width: 98%;padding-left: 5px'
+            >Registro N:</small>
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <section style='margin-bottom: 10px' class='cont-info-proveedor'>
+      <div class='info-proveedor'>
+        <div class='detalle'>
+          <p><strong>Nombre del proveedor:</strong></p>
+          <p>{{nombreProveedor}}</p>
+        </div>
+        <div class='detalle'>
+          <p><strong>Número cédulo o NIT:</strong></p>
+          <p>{{cedulaNit}}</p>
+        </div>
+        <div class='detalle'>
+          <p><strong>Tipo de compra:</strong></p>
+          <p>{{tipodeCompra}}</p>
+        </div>
+        <div class='detalle'>
+          <p><strong>Descripción del bien o servicio:</strong></p>
+          <p>{{descripcion}}</p>
+        </div>
+        <div class='detalle'>
+          <p><strong>Clasificación del proveedor:</strong></p>
+          <p>{{clasificacion}}</p>
+        </div>
+      </div>
+      <div class='info-proveedor'>
+        <div class='detalle'>
+          <p><strong>Fecha de elaboración:</strong></p>
+          <p>{{fechaElaboracion}}</p>
+        </div>
+        <div class='detalle'>
+          <p><strong>Periodo a evaluar:</strong></p>
+          <p>{{periodoEvaluar}}</p>
+        </div>
+        <div class='detalle'>
+          <p><strong>Bien:</strong></p>
+          <p>{{tipoBien}}</p>
+        </div>
+        <div class='detalle'>
+          <p><strong>Servicio:</strong></p>
+          <p>{{tipoServicio}}</p>
+        </div>
+        <div class='detalle'>
+          <p><strong>Tipo de proveedor:</strong></p>
+          <p>{{tipoProveedor}}</p>
+        </div>
+      </div>
+    </section>
+
+    <section>
+      <small>A continuación, encontrará una serie de aspectos a evaluar, por
+        favor califique la respuesta de 1 a 5, siendo 5 la valoración más
+        positivo según el siguiente criterio:</small>
+
+      <div style='margin: 20px 0' class='contenedor-flex-row'>
+        <div class='titulo-tema-sistema'>
+          SISTEMA DE PUNTUACIÓN
+        </div>
+
+        <div>
+          <div class='contenedor-flex-row'>
+            <p class='sistema-punto'>0</p>
+            <p class='sistema-tipo'>No aplicable</p>
+          </div>
+          <div class='contenedor-flex-row'>
+            <p class='sistema-punto'>1</p>
+            <p class='sistema-tipo'>No cumple</p>
+          </div>
+          <div class='contenedor-flex-row'>
+            <p style='border-bottom: 1px solid #000' class='sistema-punto'>2</p>
+            <p style='border-bottom: 1px solid #000' class='sistema-tipo'>Cumple
+              mínimamente</p>
+          </div>
+        </div>
+
+        <div>
+          <div class='contenedor-flex-row'>
+            <p class='sistema-punto'>3</p>
+            <p class='sistema-tipo'>Cumple parcialmente</p>
+          </div>
+          <div class='contenedor-flex-row'>
+            <p class='sistema-punto'>4</p>
+            <p class='sistema-tipo'>Cumple plenamente</p>
+          </div>
+          <div class='contenedor-flex-row'>
+            <p style='border-bottom: 1px solid #000' class='sistema-punto'>5</p>
+            <p style='border-bottom: 1px solid #000' class='sistema-tipo'>Supera
+              expectativas</p>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <h4 class='titulo-tema'>ASPECTOS A EVALUAR PROVEEDORES Y CONTRATISTAS</h4>
+
+    <section style='margin-bottom: 20px' class='contenedor-flex-row'>
+      <div style='width: 100%'>
+        <h5 style='margin-bottom: 5px' class='titulo-preguntas'>1. EVALUACION
+          COMERCIAL Y CONTRACTUAL</h5>
+        <p class='pregunta'>Nivel de servicio (Tiempo respuesta requerimiento,
+          asesoria técnica y comercial)</p>
+        <p class='pregunta'>Competitividad en los precios</p>
+        <p class='pregunta'>Flexiblidad en la negociación</p>
+        <p style='height: 40px' class='pregunta'>Cumplimiento información
+          contractual (Fichas técnicas, contratos, acuerdo, normas técnicas,
+          certificaciones, etc) según aplique de acuerdo con la negociación</p>
+        <p class='pregunta'>Capacidad y disponibilidad de entrega (servicios,
+          materiales, insumos y equipos)</p>
+        <p style='margin-top: 10px;padding: 5px 0' class='pregunta'>Subtotal</p>
+      </div>
+
+      <div style='margin: 0 0 0 30px;'>
+        <p style='border-right: none;' class='enc-puntaje'><strong
+          >Puntaje</strong></p>
+        <p class='ponderado'>{{ptsContra.[0]}}</p>
+        <p class='ponderado'>{{ptsContra.[1]}}</p>
+        <p class='ponderado'>{{ptsContra.[2]}}</p>
+        <p style='height: 40px' class='ponderado'>{{ptsContra.[3]}}</p>
+        <p class='ponderado'>{{ptsContra.[4]}}</p>
+        <p
+          style='margin-top: 8px; padding: 5px 0;'
+          class='ponderado'
+        >{{totalContra ptsContra}}</p>
+      </div>
+      <p class='enc-puntaje'><strong>25%</strong></p>
+    </section>
+
+    <section style='margin-bottom: 20px' class='contenedor-flex-row'>
+      <div style='width: 100%'>
+        <h5 style='margin-bottom: 5px' class='titulo-preguntas'>2. EVALUACION DE
+          CALIDAD</h5>
+        <p class='pregunta'>Cumplimiento objetivo general del contrato (tiempo
+          de entrega y cantidad requerida)</p>
+        <p class='pregunta'>Cumplimiento en la calidad de los suministros según
+          las especificaciones, embalaje y transporte</p>
+        <p class='pregunta'>Respuesta a reclamos efectuados y garantías
+          ofrecidas del producto o servicio suministrado.</p>
+        <p style='height: 40px' class='pregunta'>Cumplimiento en documentos de
+          entrega (factura, orden de compra, certificados de calidad,
+          certificados de calibración,actas de Dispocision)</p>
+        <p class='pregunta'>La cadena de suministro de la planta extractora está
+          certificada por la RSPO // ISCC</p>
+        <p class='pregunta'>Impacto del transportador en plantas de los clientes
+        </p>
+        <p style='margin-top: 10px;padding: 5px 0' class='pregunta'>Subtotal</p>
+      </div>
+
+      <div style='margin: 0 0 0 30px;'>
+        <p style='border-right: none;' class='enc-puntaje'><strong
+          >Puntaje</strong></p>
+        <p class='ponderado'>{{ptsComer.[0]}}</p>
+        <p class='ponderado'>{{ptsComer.[1]}}</p>
+        <p class='ponderado'>{{ptsComer.[2]}}</p>
+        <p style='height: 40px' class='ponderado'>{{ptsComer.[3]}}</p>
+        <p class='ponderado'>{{ptsComer.[4]}}</p>
+        <p class='ponderado'>{{ptsComer.[5]}}</p>
+        <p
+          style='margin-top: 8px; padding: 5px 0;'
+          class='ponderado'
+        >{{totalComer ptsComer}}</p>
+      </div>
+      <p class='enc-puntaje'><strong>25%</strong></p>
+    </section>
+
+    {{! Segunda página }}
+    <section style='margin-bottom: 20px' class='contenedor-flex-row'>
+      <div style='width: 100%'>
+        <h5 style='margin-bottom: 5px' class='titulo-preguntas'>3. EVALUACION DE
+          SEGURIDAD</h5>
+        <p style='height: 40px' class='pregunta'>Cumplimiento de SG SST
+          (Estándares mínimos, autoevaluación del DEC 1072, Licencia SST. y
+          Curso 50 Horas)
+        </p>
+        <p style='height: 40px' class='pregunta'>Cumplimiento de Estándares
+          mínimos de seguridad en planta de los clientes por parte de los
+          conductores</p>
+        <p class='pregunta'>Porcentaje de cumplimiento de Plan Estrategico de
+          Seguridad Vial</p>
+        <p style='margin-top: 10px;padding: 5px 0' class='pregunta'>Subtotal</p>
+      </div>
+
+      <div style='margin: 0 0 0 30px;'>
+        <p style='border-right: none;' class='enc-puntaje'><strong
+          >Puntaje</strong></p>
+        <p style='height: 40px' class='ponderado'>{{ptsSst.[0]}}</p>
+        <p style='height: 40px' class='ponderado'>{{ptsSst.[1]}}</p>
+        <p class='ponderado'>{{ptsSst.[2]}}</p>
+        <p style='margin-top: 8px; padding: 5px 0;' class='ponderado'>{{totalSst
+            ptsSst
+          }}</p>
+      </div>
+      <p class='enc-puntaje'><strong>25%</strong></p>
+    </section>
+
+    <section style='margin-bottom: 30px' class='contenedor-flex-row'>
+      <div style='width: 100%'>
+        <h5 style='margin-bottom: 5px' class='titulo-preguntas'>4. EVALUACION
+          AMBIENTAL</h5>
+        <p class='pregunta'>Cumplimientos Normatividad legal Decreto 1076/2015</p>
+        <p class='pregunta'>Cumplimientos Normatividad legal Decreto
+          (1609/2002)-(1079/2015)</p>
+        <p style='margin-top: 10px;padding: 5px 0' class='pregunta'>Subtotal</p>
+      </div>
+
+      <div style='margin: 0 0 0 30px;'>
+        <p style='border-right: none;' class='enc-puntaje'><strong
+          >Puntaje</strong></p>
+        <p class='ponderado'>{{ptsAmb.[0]}}</p>
+        <p class='ponderado'>{{ptsAmb.[1]}}</p>
+        <p style='margin-top: 8px; padding: 5px 0;' class='ponderado'>{{totalAmb
+            ptsAmb
+          }}</p>
+      </div>
+      <p class='enc-puntaje'><strong>25%</strong></p>
+    </section>
+
+    <h4 class='titulo-tema'>RESUMEN DE EVALUACION</h4>
+    <section style='margin-bottom: 20px' class='contenedor-flex-row'>
+      <div style='width: 100%'>
+        <h5 style='margin-bottom: 5px' class='titulo-preguntas'>ASPECTO A
+          EVALUAR</h5>
+        <p class='pregunta'>1. EVALUACION COMERCIAL Y CONTRACTUAL</p>
+        <p class='pregunta'>2. EVALUACION DE CALIDAD</p>
+        <p class='pregunta'>3. EVALUACION DE SEGURIDAD</p>
+        <p class='pregunta'>4. EVALUACION AMBIENTAL</p>
+        <p
+          style='margin-top: 10px;padding: 5px 0; font-weight: bold; text-align: center'
+          class='pregunta'
+        >TOTAL</p>
+      </div>
+
+      <div style='margin: 0 0 0 30px;'>
+        <p class='enc-puntaje'><strong>Porcentaje</strong></p>
+        <p class='ponderado'>{{totalContra ptsContra}}</p>
+        <p class='ponderado'>{{totalComer ptsComer}}</p>
+        <p class='ponderado'>{{totalSst ptsSst}}</p>
+        <p class='ponderado'>{{totalAmb ptsAmb}}</p>
+        <p
+          style='margin-top: 8px; padding: 5px 0;'
+          class='ponderado'
+        >{{totalGeneral ptsContra ptsComer}}</p>
+      </div>
+    </section>
+
+    <h4 class='titulo-tema'>OBSERVACIONES</h4>
+    <p class='observaciones-eva'>{{observaciones}}</p>
+
+    <h4 class='titulo-tema'>DATOS DEL EVALUADOR(ES)</h4>
+    <section class='contenedor-flex-row'>
+      <div style='width: 100%' class='contenedor-flex-column'>
+        <div class='detalle'>
+          <p><strong>Nombre:</strong></p>
+          <p>{{primerFirmante}}</p>
+        </div>
+        <div class='detalle'>
+          <p><strong>Cargo:</strong></p>
+          <p>{{primerCargo}}</p>
+        </div>
+        <div class='detalle'>
+          <p><strong>Firma:</strong></p>
+          <img
+            style='width: 100px'
+            src={{primeraFirma}}
+            alt='Firma primer evaluador'
+          />
+        </div>
+      </div>
+
+      <div style='width: 100%' class='contenedor-flex-column'>
+        <div class='detalle'>
+          <p><strong>Nombre:</strong></p>
+          <p>{{segundoFirmante}}</p>
+        </div>
+        <div class='detalle'>
+          <p><strong>Cargo:</strong></p>
+          <p>{{segundoCargo}}</p>
+        </div>
+        <div class='detalle'>
+          <p><strong>Firma:</strong></p>
+          <img
+            style='width: 100px'
+            src={{segundaFirma}}
+            alt='Firma primer evaluador'
+          />
+        </div>
+      </div>
+
+      <div style='width: 100%' class='contenedor-flex-column'>
+        <div class='detalle'>
+          <p><strong>Nombre:</strong></p>
+          <p>{{tercerFirmante}}</p>
+        </div>
+        <div class='detalle'>
+          <p><strong>Cargo:</strong></p>
+          <p>{{tercerCargo}}</p>
+        </div>
+        <div class='detalle'>
+          <p><strong>Firma:</strong></p>
+          <img
+            style='width: 100px'
+            src={{terceraFirma}}
+            alt='Firma primer evaluador'
+          />
+        </div>
+      </div>
+    </section>
+  </body>
+</html>

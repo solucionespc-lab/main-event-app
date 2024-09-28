@@ -1,0 +1,19 @@
+{
+  "name": "plantillas/EvalDespAprobado.hbs",
+  "bucket": "internal-bucket-biod",
+  "metageneration": 1,
+  "generation": 1724166283943,
+  "contentType": "application/octet-stream",
+  "storageClass": "STANDARD",
+  "contentDisposition": "inline",
+  "downloadTokens": [
+    "e39b7fab-732e-467f-8e45-7df993eba2f8"
+  ],
+  "etag": "kcRSnRyeZBZPyzlmiutMVoj+rBg",
+  "customMetadata": {},
+  "timeCreated": "2024-08-20T15:04:43.943Z",
+  "updated": "2024-08-20T15:04:43.943Z",
+  "size": 3900,
+  "md5Hash": "AbL8yBUprb7kP9b02H4iPw==",
+  "crc32c": "3196727400"
+}

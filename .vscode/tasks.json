@@ -1,0 +1,93 @@
+{
+  "version": "2.0.0",
+  "tasks": [
+    {
+      "type": "npm",
+      "script": "dev",
+      "path": "frontend",
+      "problemMatcher": [],
+      "label": "Running Frontend",
+      "icon": {
+        "color": "terminal.ansiRed",
+        "id": "device-desktop"
+      },
+      "presentation": {
+        "group": "Frontend"
+      }
+    },
+    {
+      "type": "npm",
+      "script": "dev",
+      "path": "backend",
+      "problemMatcher": [],
+      "label": "Running Server",
+      "icon": {
+        "color": "terminal.ansiMagenta",
+        "id": "database"
+      },
+      "presentation": {
+        "group": "Backend"
+      }
+    },
+    {
+      "type": "npm",
+      "label": "TS Compiler",
+      "script": "watch",
+      "path": "backend",
+      "problemMatcher": {
+        "base": "$tsc-watch",
+        "applyTo": "allDocuments"
+      },
+      "isBackground": true,
+      "icon": {
+        "color": "terminal.ansiCyan",
+        "id": "combine"
+      },
+      "presentation": {
+        "group": "Backend"
+      }
+    },
+    {
+      "type": "shell",
+      "label": "Running Backend",
+      "group": "build",
+      "dependsOn": ["TS Compiler", "Running Server"],
+      "dependsOrder": "sequence",
+      "icon": {
+        "color": "terminal.ansiMagenta",
+        "id": "server"
+      },
+      "presentation": {
+        "echo": true,
+        "reveal": "always",
+        "revealProblems": "always",
+        "focus": true,
+        "panel": "dedicated",
+        "showReuseMessage": true,
+        "clear": false,
+        "group": "Backcend"
+      }
+    },
+    {
+      "type": "shell",
+      "label": "Development environment",
+      "group": "build",
+      "dependsOn": ["Running Backend", "Running Frontend"],
+      "dependsOrder": "parallel",
+      "icon": {
+        "color": "terminal.ansiRed",
+        "id": "server"
+      },
+      "presentation": {
+        "echo": true,
+        "reveal": "always",
+        "revealProblems": "always",
+        "focus": true,
+        "panel": "dedicated",
+        "showReuseMessage": true,
+        "clear": false,
+        "group": "Dev"
+      }
+    }
+  ]
+}

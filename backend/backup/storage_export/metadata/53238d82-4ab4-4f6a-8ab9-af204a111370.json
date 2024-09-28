@@ -1,0 +1,19 @@
+{
+  "name": "logo.ico",
+  "bucket": "internal-bucket-biod",
+  "metageneration": 1,
+  "generation": 1722556010415,
+  "contentType": "image/x-icon",
+  "storageClass": "STANDARD",
+  "contentDisposition": "inline",
+  "downloadTokens": [
+    "64a5ada1-7282-4864-90ac-69f78bd1656e"
+  ],
+  "etag": "C59xdEh+pGUWEb4lGanaygTBJXA",
+  "customMetadata": {},
+  "timeCreated": "2024-08-01T23:46:50.415Z",
+  "updated": "2024-08-01T23:46:50.415Z",
+  "size": 13420,
+  "md5Hash": "Nt6Cp5CSmc7jf7rBQceOfg==",
+  "crc32c": "1062578777"
+}

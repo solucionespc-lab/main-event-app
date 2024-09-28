@@ -1,0 +1,19 @@
+{
+  "name": "Firma cesar F.png",
+  "bucket": "internal-bucket-biod",
+  "metageneration": 1,
+  "generation": 1722556010411,
+  "contentType": "image/png",
+  "storageClass": "STANDARD",
+  "contentDisposition": "inline",
+  "downloadTokens": [
+    "eaaadbe0-c432-4111-b2c1-efca2626ae07"
+  ],
+  "etag": "j1lkGJWTLINesuhJ8xhYoPmIR5c",
+  "customMetadata": {},
+  "timeCreated": "2024-08-01T23:46:50.411Z",
+  "updated": "2024-08-01T23:46:50.411Z",
+  "size": 25617,
+  "md5Hash": "TCa06u8NaiGY4FZ60Mcn+A==",
+  "crc32c": "1336575317"
+}

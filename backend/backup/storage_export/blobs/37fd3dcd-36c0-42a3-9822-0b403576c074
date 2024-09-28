@@ -1,0 +1,94 @@
+<html lang='es'>
+  <head>
+    <meta charset='UTF-8' />
+    <meta name='viewport' content='width=device-width; initial-scale=1.0' />
+    <style>
+      *{ margin: 0; font-size: 12px; font-family: 'Century Gothic', system-ui,
+      -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu,
+      Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif; } header { position:
+      fixed; top: 0; right: 0; } .marca_agua { position: fixed; top: 0; left: 0;
+      z-index: -1; width: 100%; height: 100%; } .contenido { position: relative;
+      margin: 110px 90.709px 0 90.709px; } .logo { width: 120px; } .marca_agua {
+      position: absolute; top:0; width: 100%; height: 100%; z-index: -1; }
+      article > p { text-align: justify; line-height: 1.5; } footer { display:
+      flex; position: absolute; bottom: 0; border-bottom: 5px solid;
+      border-image: linear-gradient(to right, #144e88 25%, #069edb 50%, #8bc751
+      75%, #cadd56 100% ) 1; } footer > small { padding: 12px 0; } .border-biod
+      { padding-left: 8px; border-left: 5px solid; border-image:
+      linear-gradient(to top, #8bc751 50%, #cadd56 100%) 1; }
+    </style>
+  </head>
+  <body>
+    <main class='contenido'>
+      <header>
+        <img src={{logoUrl}} alt='Logotipo BIOD' width='130' />
+      </header>
+      <img class='marca_agua' src={{marcaUrl}} alt='Marca de agua' />
+      <article>
+        <p>Facatativá., {{fechaMA hoy}}</p>
+        <br />
+        <p>Señores:</p>
+        <p>{{nombreContratista}}</p>
+        <br />
+        <br />
+        <p>Ciudad</p>
+        <p>
+          Referencia:
+          <strong>Retroalimentación Evaluación de Desempeño periodo
+            {{year}}.</strong>
+        </p>
+        <br />
+        <p>Respetado(a).</p>
+        <br />
+
+        <p>Cordial saludo, de acuerdo con el procedimiento Selección, evaluación
+          y reevaluación de proveedores (COM-PRO-003) se establece que de
+          acuerdo con la evaluación de desempeño que se realiza anualmente a
+          nuestros proveedores y contratistas, deberá obtener una calificación
+          igual o mayor a 3.5 en el puntaje global de la evaluación.</p>
+        <br />
+        <p>Los proveedores y/o contratistas con calificación inferior a 3.5,
+          deberán gestionar un plan de trabajo enfocado y/o presentar los
+          documentos pendientes, de acuerdo con las observaciones realizadas por
+          el evaluador mediante la retroalimentación.</p>
+        <br />
+        <p>En atención a la evaluación de desempeño realizada por BIO D S.A.
+          queremos informarle que su compañía obtuvo un puntaje de
+          {{calificacion}}
+          en la evaluación anual, correspondiente al año
+          {{year}}</p>
+        <br />
+        <p>Agradecemos su compromiso y gestión como contratista de nuestra
+          Organización.</p>
+      </article>
+      <br />
+      <br />
+      <article>
+        <section>
+          <p>Cordialmente,</p>
+          <br />
+          <img class='firma' src={{firma}} alt='firma' />
+          <p>Cesar F. Osorio Zambrano
+            <p>Dirección de compras y almacén BIO D S.A</p>
+            <a href='mailto:cesar.osorio@biodsa.com'>cesar.osorio@biodsa.com</a>
+            <p>8910300 ext.102</p>
+          </p>
+        </section>
+      </article>
+    </main>
+    <footer>
+      <small style='padding: 0 8px 0 0'>
+        <strong>Planta:</strong>&nbsp;Terminal de Combustibles de la sabana,
+        <br />&emsp;&emsp;Vereda Mancilla, Facatativá, Cundinamarca
+      </small>
+      <small
+        style='text-align: center; padding: 0 8px'
+        class='border-biod'
+      >Teléfono: <br />(60 1) 891 0300 </small>
+      <small
+        style='text-align: center;'
+        class='border-biod'
+      >biodsa.com.co</small>
+    </footer>
+  </body>
+</html>

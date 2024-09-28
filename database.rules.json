@@ -1,0 +1,14 @@
+{
+  "rules": {
+    ".read": "null !== auth.uid",
+    "CentrosDeTrabajo":{
+    	".write": "auth.uid !== null"
+    },
+    "LstLideres":{
+    	".write": "null !== auth.uid"
+    },
+    "$other": {
+      ".write": false
+    }
+  }
+}

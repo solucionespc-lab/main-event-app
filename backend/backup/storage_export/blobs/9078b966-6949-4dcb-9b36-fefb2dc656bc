@@ -1,0 +1,151 @@
+<html lang='es'>
+  <head>
+    <meta charset='UTF-8' />
+    <meta name='viewport' content='width=device-width; initial-scale=1.0' />
+    <style>
+      *{ margin: 0; font-size: 14px; font-family: 'Century Gothic', system-ui,
+      -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu,
+      Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif; } header { position:
+      fixed; top: 0; right: 0; } .marca_agua { position: fixed; top: 0; left: 0;
+      z-index: -1; width: 100%; height: 100%; } article > p { text-align:
+      justify; line-height: 1.5; } footer { display: flex; position: fixed;
+      bottom: 0; height: 50px; border-bottom: 5px solid; border-image:
+      linear-gradient(to right, #144e88 25%, #069edb 50%, #8bc751 75%, #cadd56
+      100% ) 1; } footer > small { padding: 12px 0; } .border-biod {
+      padding-left: 8px; border-left: 5px solid; border-image:
+      linear-gradient(to top, #8bc751 50%, #cadd56 100%) 1; } .plan-trabajo {
+      list-style: none; line-height: 1.5; text-indent: 0; } .plan-trabajo:before
+      { content: "▢"; font-size: 20px; padding-right: 5px; vertical-align: -11%;
+      } .break-page { display: block; page-break-before: always; }
+      .recomendaciones > li { line-height: 1.5; } .margenes { margin: 110px
+      90.709px 0 90.709px; }
+    </style>
+  </head>
+  <body>
+    <header>
+      <img src={{logoUrl}} alt='Logotipo BIOD' width='130' />
+    </header>
+    <img class='marca_agua' src={{marcaUrl}} alt='Marca de agua' />
+
+    {{! primera página }}
+    <main class='margenes'>
+      <article>
+        <p>Facatativá., {{fechaMA hoy}}</p>
+        <br />
+        <p>Señores:</p>
+        <p>{{nombreContratista}}</p>
+        <br />
+        <br />
+        <p>Ciudad</p>
+        <p>
+          Referencia:
+          <strong>Retroalimentación Evaluación de Desempeño periodo
+            {{year}}.</strong>
+        </p>
+        <br />
+        <p>Respetado(a).</p>
+        <br />
+        <p>Cordial saludo, de acuerdo con el procedimiento Selección, evaluación
+          y reevaluación de proveedores (COM-PRO-003) se establece que de
+          acuerdo con la evaluación de desempeño que se realiza anualmente a
+          nuestros proveedores y contratistas, deberá obtener una calificación
+          igual o mayor a 3.5 en el puntaje global de la evaluación.</p>
+        <br />
+        <p>Los proveedores y/o contratistas con calificación inferior a 3.5,
+          deberán gestionar un plan de trabajo enfocado y/o presentar los
+          documentos pendientes, de acuerdo con las observaciones realizadas por
+          el evaluador mediante la retroalimentación.</p>
+        <br />
+        <p>En atención a la evaluación de desempeño realizada por BIO D S.A.
+          queremos informarle que su compañía obtuvo un puntaje de
+          {{calificacion}}
+          en la evaluación anual, correspondiente al año
+          {{year}}</p>
+        <br />
+        <p>Teniendo en cuenta su calificación, por favor presentar lo siguiente:</p>
+      </article>
+      <br />
+      <div class='plan-trabajo'>Plan de trabajo enfocado (informe gerencial
+        donde se especifiquen las actividades y/o tareas a desarrollar para el
+        cumplimiento de los pendientes).</div>
+      <br />
+      <div class='plan-trabajo'>Documentos pendientes.</div>
+      <br />
+    </main>
+
+    {{! segunda página }}
+    <main class='break-page margenes'>
+      <article>
+        <p><strong>Detalle de la evaluación:</strong></p>
+        <p>Seguridad</p>
+        <ul class='recomendaciones'>
+          <li>Firma de validación por parte de los encargados del SG-SST en la
+            autoevaluación por parte de la ARL cumplimiento del 100%.</li>
+          <li>El reporte de autoevaluación año 2021 conforme a la circular 072
+            de 2021 se encuentra desactualizado.</li>
+        </ul>
+        <p>Ambiental</p>
+        <ul class='recomendaciones'>
+          <li>Plan de contingencias para el manejo de derrames de hidrocarburos
+            o sustancias nocivas, no cuenta con radicado ante la autoridad
+            ambiental.</li>
+          <li>No se evidencian tarjetas de emergencia para transporte de
+            mercancías peligrosas</li>
+          <li>No se evidencia la póliza de responsabilidad civil
+            extracontractual o hidrocarburos</li>
+          <li>No se cuenta con el registro de capacitación al personal que
+            manipula mercancías peligrosas en la atención de emergencias,
+            incidentes o accidentes causados por mercancías peligrosas.</li>
+          <li>No se cuenta con el registro de inspección de botiquín y kit de
+            derrames del vehículo que transporta mercancías peligrosas.</li>
+          <li>No se cuenta con el registro fotográfico del etiquetado del
+            vehículo según lo estipulado en la Norma Técnica Colombiana NTC1692
+            y las NTC47022-23-24- 25-26-27-28-29 en sus respectivos anexos y el
+            Sistema Globalmente Armonizado de clasificación y etiquetado de
+            productos químicos</li>
+          <li>No se cuenta con la revisión tecno mecánica con el respectivo
+            informe de resultados de opacidad.</li>
+        </ul>
+        <br />
+        <br />
+        <p>Agradecemos enviar la documentación antes del
+          {{dia}}
+          de
+          {{mes}}
+          de
+          {{annio}}
+          para realizar la respectiva reevaluación y garantizar el cumplimiento
+          y calificación requerida para aprobación.</p>
+        <br />
+      </article>
+      <br />
+      <br />
+      <br />
+      <section>
+        <p>Cordialmente,</p>
+        <br />
+        <img class='firma' src={{firma}} alt='firma' />
+        <p>Cesar F. Osorio Zambrano
+          <p>Dirección de compras y almacén BIO D S.A</p>
+          <a href='mailto:cesar.osorio@biodsa.com'>cesar.osorio@biodsa.com</a>
+          <p>8910300 ext.102</p>
+        </p>
+      </section>
+    </main>
+
+    <footer>
+      <small style='padding: 0 8px 0 0'>
+        <strong>Planta:</strong>&nbsp;Terminal de Combustibles de la sabana,
+        <br />&emsp;&emsp;Vereda Mancilla, Facatativá, Cundinamarca
+      </small>
+      <small
+        style='text-align: center; padding: 0 8px'
+        class='border-biod'
+      >Teléfono: <br />(60 1) 891 0300 </small>
+      <small
+        style='text-align: center;'
+        class='border-biod'
+      >biodsa.com.co</small>
+    </footer>
+  </body>
+</html>

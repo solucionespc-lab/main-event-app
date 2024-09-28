@@ -1,0 +1,19 @@
+{
+  "name": "plantillas/ResumenEvaluaciones.hbs",
+  "bucket": "internal-bucket-biod",
+  "metageneration": 1,
+  "generation": 1724166283974,
+  "contentType": "application/octet-stream",
+  "storageClass": "STANDARD",
+  "contentDisposition": "inline",
+  "downloadTokens": [
+    "3b1e908e-dab8-4bb1-af80-517144acbd67"
+  ],
+  "etag": "8f1o2kzSPciSKZ/QDB6uRu7nTBQ",
+  "customMetadata": {},
+  "timeCreated": "2024-08-20T15:04:43.974Z",
+  "updated": "2024-08-20T15:04:43.974Z",
+  "size": 16369,
+  "md5Hash": "1PCFR9mQQXVlm+Iq48kwrQ==",
+  "crc32c": "570521793"
+}

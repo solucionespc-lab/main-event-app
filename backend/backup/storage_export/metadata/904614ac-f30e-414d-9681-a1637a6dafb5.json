@@ -1,0 +1,19 @@
+{
+  "name": "Marca de agua.png",
+  "bucket": "internal-bucket-biod",
+  "metageneration": 1,
+  "generation": 1724739202639,
+  "contentType": "image/png",
+  "storageClass": "STANDARD",
+  "contentDisposition": "inline",
+  "downloadTokens": [
+    "7ed53862-4c3f-43e0-9c94-6e4c0cc8c270"
+  ],
+  "etag": "5EM9GNT9HGY7iEmT3tN03L2FaoM",
+  "customMetadata": {},
+  "timeCreated": "2024-08-27T06:13:22.639Z",
+  "updated": "2024-08-27T06:13:22.639Z",
+  "size": 95621,
+  "md5Hash": "lP7Z0ipqt+JH+waLLTb/gg==",
+  "crc32c": "1805478028"
+}

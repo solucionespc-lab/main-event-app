@@ -1,0 +1,19 @@
+{
+  "name": "logo.webp",
+  "bucket": "internal-bucket-biod",
+  "metageneration": 1,
+  "generation": 1724739231472,
+  "contentType": "image/webp",
+  "storageClass": "STANDARD",
+  "contentDisposition": "inline",
+  "downloadTokens": [
+    "52e5f418-31b4-4441-a2da-117f10c3f12a"
+  ],
+  "etag": "kPdJjkGohVPm4AuAU36N8ejfZfE",
+  "customMetadata": {},
+  "timeCreated": "2024-08-27T06:13:51.473Z",
+  "updated": "2024-08-27T06:13:51.473Z",
+  "size": 188698,
+  "md5Hash": "BaLoAYxcIlYjUtLrV0jdYw==",
+  "crc32c": "858584715"
+}

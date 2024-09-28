@@ -1,0 +1,130 @@
+{
+  "evaluacionProveedores": [
+    {
+      "codigo": "EVA001",
+      "codigoTema": "TEMA001",
+      "descripcion": "Agilidad a respuesta de cotizaciones",
+      "tema": "EVALUACIÓN COMERCIAL Y CONTRACTUAL"
+    },
+    {
+      "codigo": "EVA002",
+      "codigoTema": "TEMA001",
+      "descripcion": "Competitividad en los precios",
+      "tema": "EVALUACIÓN COMERCIAL Y CONTRACTUAL"
+    },
+    {
+      "codigo": "EVA003",
+      "codigoTema": "TEMA001",
+      "descripcion": "Cumplimiento del objetivo del contrato",
+      "tema": "EVALUACIÓN COMERCIAL Y CONTRACTUAL"
+    },
+    {
+      "codigo": "EVA004",
+      "codigoTema": "TEMA001",
+      "descripcion": "Cumplimiento en documentos de entrega (factura, orden de compra, certificados de calidad, certificados de calibración,actas de Dispocision)",
+      "tema": "EVALUACIÓN COMERCIAL Y CONTRACTUAL"
+    },
+    {
+      "codigo": "EVA005",
+      "codigoTema": "TEMA001",
+      "descripcion": "Cumplimiento de los tiempos de entrega pactados",
+      "tema": "EVALUACIÓN COMERCIAL Y CONTRACTUAL"
+    },
+    {
+      "codigo": "EVA006",
+      "codigoTema": "TEMA001",
+      "descripcion": "Cumplimiento de las cantidades acordadas",
+      "tema": "EVALUACIÓN COMERCIAL Y CONTRACTUAL"
+    },
+    {
+      "codigo": "EVA007",
+      "codigoTema": "TEMA001",
+      "descripcion": "Cumplimiento de la calidad según especificaciones del contrato de suministro.",
+      "tema": "EVALUACIÓN COMERCIAL Y CONTRACTUAL"
+    },
+    {
+      "codigo": "EVA008",
+      "codigoTema": "TEMA001",
+      "descripcion": "Asesoría técnica antes, durante y después del trabajo",
+      "tema": "EVALUACIÓN COMERCIAL Y CONTRACTUAL"
+    },
+    {
+      "codigo": "EVA009",
+      "codigoTema": "TEMA002",
+      "descripcion": "Cumplimiento en la calidad de los suministros según las especificaciones",
+      "tema": "EVALUACIÓN DE COMERCIAL"
+    },
+    {
+      "codigo": "EVA010",
+      "codigoTema": "TEMA002",
+      "descripcion": "Cumplimiento en Calidad y seguridad del embalaje y transporte",
+      "tema": "EVALUACIÓN DE COMERCIAL"
+    },
+    {
+      "codigo": "EVA011",
+      "codigoTema": "TEMA002",
+      "descripcion": "Calidad general del trabajo ejecutado",
+      "tema": "EVALUACIÓN DE COMERCIAL"
+    },
+    {
+      "codigo": "EVA012",
+      "codigoTema": "TEMA002",
+      "descripcion": "La cadena de suministro de la planta extractora está certificada por la RSPO // ISCC",
+      "tema": "EVALUACIÓN DE COMERCIAL"
+    },
+    {
+      "codigo": "EVA013",
+      "codigoTema": "TEMA002",
+      "descripcion": "Garantías ofrecidas del producto o servicio suministrado.",
+      "tema": "EVALUACIÓN DE COMERCIAL"
+    },
+    {
+      "codigo": "EVA014",
+      "codigoTema": "TEMA002",
+      "descripcion": "Respuesta a reclamos efectuados",
+      "tema": "EVALUACIÓN DE COMERCIAL"
+    },
+    {
+      "codigo": "EVA015",
+      "codigoTema": "TEMA002",
+      "descripcion": "Impacto del transportador en plantas de los clientes",
+      "tema": "EVALUACIÓN DE COMERCIAL"
+    },
+    {
+      "codigo": "EVA016",
+      "codigoTema": "TEMA003",
+      "descripcion": "Cumplimiento de Estándares mínimos SG SST-Legales e internos de BIOD",
+      "tema": "EVALUACIÓN DE SEGURIDAD"
+    },
+    {
+      "codigo": "EVA017",
+      "codigoTema": "TEMA003",
+      "descripcion": "Autoevaluación del DEC 1072 y Licencia S.O. y Curso 50 Horas",
+      "tema": "EVALUACIÓN DE SEGURIDAD"
+    },
+    {
+      "codigo": "EVA018",
+      "codigoTema": "TEMA003",
+      "descripcion": "Cumplimiento de Estándares mínimos de seguridad en planta de los clientes por parte de los conductores",
+      "tema": "EVALUACIÓN DE SEGURIDAD"
+    },
+    {
+      "codigo": "EVA019",
+      "codigoTema": "TEMA003",
+      "descripcion": "Porcentaje de cumplimiento de Plan Estrategico de Seguridad Vial",
+      "tema": "EVALUACIÓN DE SEGURIDAD"
+    },
+    {
+      "codigo": "EVA020",
+      "codigoTema": "TEMA004",
+      "descripcion": "Cumplimientos Normatividad legal Decreto 1076/2015",
+      "tema": "EVALUACIÓN AMBIENTAL"
+    },
+    {
+      "codigo": "EVA021",
+      "codigoTema": "TEMA004",
+      "descripcion": "Cumplimientos Normatividad legal Decreto (1609/2002)-(1079/2015)",
+      "tema": "EVALUACIÓN AMBIENTAL"
+    }
+  ]
+}

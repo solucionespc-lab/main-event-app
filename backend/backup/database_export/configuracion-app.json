@@ -1,0 +1,108 @@
+{
+  "iam": {
+    "acciones": {
+      "aplicacion": [
+        "leer",
+        "crear",
+        "editar",
+        "importar",
+        "exportar",
+        "masivas"
+      ],
+      "infraestructura": [
+        "crearTokens",
+        "crearUsuarios",
+        "llamar",
+        "configuracion"
+      ]
+    },
+    "grupos": {
+      "cliente": {
+        "firmas": ["yr5fS3jQTA94"],
+        "organizacion": "BIOD",
+        "privilegios": "0:012345:1",
+        "roles": ["administrador"]
+      },
+      "propietario": {
+        "firmas": ["yr5fS3jQTA94"],
+        "organizacion": "Soluciones PC",
+        "privilegios": "0:012345:0123",
+        "roles": ["superadministrador"]
+      },
+      "proveedor": {
+        "firmas": ["yr5fS3jQTA94"],
+        "organizacion": "proveedor",
+        "roles": []
+      },
+      "soporte": {
+        "firmas": ["yr5fS3jQTA94"],
+        "organizacion": "Soluciones PC",
+        "privilegios": "0:01234567:0123",
+        "roles": ["soporte"]
+      }
+    },
+    "modulos": [
+      {
+        "descripcion": "",
+        "estaActivo": true,
+        "imagen": "",
+        "llaveModulo": "trabajadores",
+        "responsable": "",
+        "subGrupo": "Submodulo trabajadores",
+        "titulo": "Trabajadores",
+        "url": "/trabajadores"
+      },
+      {
+        "descripcion": "",
+        "estaActivo": true,
+        "imagen": "",
+        "llaveModulo": "trabajadoresContratista",
+        "responsable": "",
+        "subGrupo": "Submodulo trabajadores contratista",
+        "titulo": "Trabajadores contratista",
+        "url": "/trabajadoresContratista"
+      },
+      {
+        "descripcion": "",
+        "estaActivo": true,
+        "imagen": "",
+        "llaveModulo": "contratistas",
+        "responsable": "",
+        "subGrupo": "Submodulo contratistas",
+        "titulo": "Contratistas",
+        "url": "/contratistas"
+      },
+      {
+        "descripcion": "",
+        "estaActivo": true,
+        "imagen": "",
+        "llaveModulo": "auditorias",
+        "responsable": "",
+        "subGrupo": "Submodulo auditorías",
+        "titulo": "Auditorías",
+        "url": "/auditorias"
+      },
+      {
+        "descripcion": "",
+        "estaActivo": true,
+        "imagen": "",
+        "llaveModulo": "planes",
+        "responsable": "",
+        "subGrupo": "Submodulo planes de acción",
+        "titulo": "Planes de acción",
+        "url": "/planes"
+      },
+      {
+        "descripcion": "",
+        "estaActivo": false,
+        "imagen": "",
+        "llaveModulo": "correos",
+        "responsable": "",
+        "subGrupo": "Submodulo correos",
+        "titulo": "Mensajería evaluaciones",
+        "url": "/correos"
+      }
+    ],
+    "version": "1.4.0"
+  }
+}

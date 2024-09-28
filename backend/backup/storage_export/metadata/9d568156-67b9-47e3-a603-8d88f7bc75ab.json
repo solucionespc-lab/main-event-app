@@ -1,0 +1,19 @@
+{
+  "name": "cetificados.png",
+  "bucket": "internal-bucket-biod",
+  "metageneration": 1,
+  "generation": 1722556010425,
+  "contentType": "image/png",
+  "storageClass": "STANDARD",
+  "contentDisposition": "inline",
+  "downloadTokens": [
+    "e404006b-dd7d-49dd-829f-7ace7409cc63"
+  ],
+  "etag": "5MehmSsMiEDpLIidwFAUfqxndRg",
+  "customMetadata": {},
+  "timeCreated": "2024-08-01T23:46:50.425Z",
+  "updated": "2024-08-01T23:46:50.425Z",
+  "size": 566110,
+  "md5Hash": "BW7qCQDSH2sxpos/Amkt5Q==",
+  "crc32c": "798037286"
+}
